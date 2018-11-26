@@ -1,0 +1,17 @@
+Play,Year,Genre,Network Size,Density,Diameter,Avg Degree,Clustering Coefficient
+A Jovial Crew,1642,C,31,0.587,3,17.613,0.872
+A Mad Couple Well Matched,1639,C,16,0.833,2,12.5,0.944
+The Antipodes,1638,C,52,0.496,2,25.308,0.904
+The City Wit,1630,C,17,0.816,3,13.059,0.925
+The Court Beggar,1640,C,18,0.85,2,14.444,0.917
+Covent Garden Weeded,1632,C,26,0.652,2,16.308,0.881
+The Demoiselle,1638,C,23,0.704,2,15.478,0.866
+The English Moor,1637,C,24,0.514,3,11.833,0.816
+The Late Lancashire Witches,1634,C,27,0.778,3,20.222,0.925
+The Love-Sick Court,1638,TC,21,0.924,2,18.476,0.96
+The New Academy,1636,C,21,0.867,2,17.333,0.961
+The Northern Lass,1629,C,17,0.875,2,14,0.942
+The Novella,1632,C,19,0.813,2,14.632,0.923
+The Queen and the Concubine,1635,TC,39,0.471,3,17.897,0.829
+The Queen's Exchange,1634,TC,36,0.368,3,12.889,0.858
+The Sparagus Garden,1635,C,29,0.7,2,19.586,0.906

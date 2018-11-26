@@ -1,0 +1,1157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1163.7917"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-626.893555 -785.000000 1163.791748 1859.121460"
+     height="1859.1215" preserveAspectRatio="xMidYMid meet"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="5.0"
+              d="M 0.056036,-0.037184 C -25.445217,-16.438782 -39.094696,-79.293060 -22.693098,-104.794312"
+              class="id_Arthur id_Bantam" stroke-opacity="1.0" stroke="#d7191c"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 0.056036,-0.037184 C 124.372276,134.346497 109.271126,522.396362 -25.112549,646.712646"
+              class="id_Arthur id_Boy" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="2.2"
+              d="M 0.056036,-0.037184 C -31.075289,-63.268211 17.074265,-204.811722 80.305290,-235.943054"
+              class="id_Arthur id_Doughty" stroke-opacity="1.0" stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 0.056036,-0.037184 C -39.661385,-223.679169 236.225449,-618.718323 459.867432,-658.435730"
+              class="id_Arthur id_Fiddler" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="2.9"
+              d="M 0.056036,-0.037184 C 56.096893,27.098972 99.453949,151.864487 72.317787,207.905350"
+              class="id_Arthur id_Generous" stroke-opacity="1.0"
+              stroke="#f9dea7"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 0.056036,-0.037184 C -131.707184,108.734726 -492.509888,74.247757 -601.281799,-57.515465"
+              class="id_Arthur id_Gill" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 0.056036,-0.037184 C 8.666344,187.821701 -260.206512,482.525513 -448.065399,491.135803"
+              class="id_Arthur id_Goody_Dickieson" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="1.5"
+              d="M 0.056036,-0.037184 C -31.563946,-111.399658 88.049805,-325.873322 199.412277,-357.493286"
+              class="id_Arthur id_Gregory" stroke-opacity="1.0" stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="1.5"
+              d="M 0.056036,-0.037184 C -0.080555,-82.544136 123.474998,-206.509460 205.981949,-206.646042"
+              class="id_Arthur id_Joan" stroke-opacity="1.0" stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="2.2"
+              d="M 0.056036,-0.037184 C -62.829815,-84.627441 -30.273216,-305.841583 54.317039,-368.727417"
+              class="id_Arthur id_Lawrence" stroke-opacity="1.0"
+              stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="2.2"
+              d="M 0.056036,-0.037184 C 2.726639,50.535873 -69.127045,130.401367 -119.700104,133.071960"
+              class="id_Arthur id_Mall" stroke-opacity="1.0" stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 0.056036,-0.037184 C 60.684269,184.140381 -124.639732,551.349121 -308.817291,611.977356"
+              class="id_Arthur id_Maud" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 0.056036,-0.037184 C -45.936913,174.846039 -377.251190,368.181458 -552.134399,322.188507"
+              class="id_Arthur id_Meg" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 0.056036,-0.037184 C 123.194931,-11.853336 325.627502,155.130783 337.443634,278.269684"
+              class="id_Arthur id_Miller" stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="1.5"
+              d="M 0.056036,-0.037184 C 23.561424,92.529053 -80.029831,266.636475 -172.596069,290.141876"
+              class="id_Arthur id_Mistress_Generous" stroke-opacity="1.0"
+              stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="2.2"
+              d="M 0.056036,-0.037184 C -67.581841,-48.779968 -95.924484,-223.350952 -47.181702,-290.988831"
+              class="id_Arthur id_Parnell" stroke-opacity="1.0" stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 0.056036,-0.037184 C -179.083054,-132.817108 -248.621796,-600.695557 -115.841881,-779.834656"
+              class="id_Arthur id_Rabble" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="1.5"
+              d="M 0.056036,-0.037184 C 73.281181,78.551750 65.235497,306.272888 -13.353444,379.498047"
+              class="id_Arthur id_Robin" stroke-opacity="1.0" stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="1.5"
+              d="M 0.056036,-0.037184 C 37.369331,-80.810593 214.499390,-146.000778 295.272797,-108.687477"
+              class="id_Arthur id_Seely" stroke-opacity="1.0" stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 0.056036,-0.037184 C -0.351774,-31.852255 46.759117,-80.186577 78.574188,-80.594391"
+              class="id_Arthur id_Shakestone" stroke-opacity="1.0"
+              stroke="#d7191c"/>
+        <path fill="none" stroke-width="1.5"
+              d="M 0.056036,-0.037184 C -55.747292,56.165089 -223.755692,56.763515 -279.957977,0.960190"
+              class="id_Arthur id_Soldier" stroke-opacity="1.0" stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 0.056036,-0.037184 C 22.717325,-13.207933 76.465393,1.027878 89.636139,23.689167"
+              class="id_Arthur id_Whetstone" stroke-opacity="1.0"
+              stroke="#d7191c"/>
+        <path fill="none" stroke-width="1.5"
+              d="M 0.056036,-0.037184 C 11.253975,-115.628128 201.437286,-272.217590 317.028229,-261.019653"
+              class="id_Arthur id_Winny" stroke-opacity="1.0" stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -22.693098,-104.794312 C 127.124405,45.990971 125.672729,496.895142 -25.112549,646.712646"
+              class="id_Bantam id_Boy" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="2.2"
+              d="M -22.693098,-104.794312 C -28.323170,-151.623749 33.475861,-230.312988 80.305290,-235.943054"
+              class="id_Bantam id_Doughty" stroke-opacity="1.0" stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -22.693098,-104.794312 C -36.909279,-312.034698 252.627029,-644.219543 459.867432,-658.435730"
+              class="id_Bantam id_Fiddler" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="1.5"
+              d="M -22.693098,-104.794312 C 58.849007,-61.256565 115.855530,126.363235 72.317787,207.905350"
+              class="id_Bantam id_Generous" stroke-opacity="1.0"
+              stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -22.693098,-104.794312 C -128.955063,20.379196 -476.108276,48.746498 -601.281799,-57.515465"
+              class="id_Bantam id_Gill" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -22.693098,-104.794312 C 11.418457,99.466171 -243.804916,457.024231 -448.065399,491.135803"
+              class="id_Bantam id_Goody_Dickieson" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="1.5"
+              d="M -22.693098,-104.794312 C -28.811819,-199.755188 104.451401,-351.374573 199.412277,-357.493286"
+              class="id_Bantam id_Gregory" stroke-opacity="1.0" stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="1.5"
+              d="M -22.693098,-104.794312 C 2.671566,-170.899673 139.876587,-232.010712 205.981949,-206.646042"
+              class="id_Bantam id_Joan" stroke-opacity="1.0" stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="2.2"
+              d="M -22.693098,-104.794312 C -60.077690,-172.982956 -13.871613,-331.342834 54.317039,-368.727417"
+              class="id_Bantam id_Lawrence" stroke-opacity="1.0"
+              stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="1.5"
+              d="M -22.693098,-104.794312 C 5.478756,-37.819656 -52.725452,104.900101 -119.700104,133.071960"
+              class="id_Bantam id_Mall" stroke-opacity="1.0" stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -22.693098,-104.794312 C 63.436401,95.784866 -108.238113,525.847839 -308.817291,611.977356"
+              class="id_Bantam id_Maud" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -22.693098,-104.794312 C -43.184784,86.490501 -360.849609,342.680206 -552.134399,322.188507"
+              class="id_Bantam id_Meg" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -22.693098,-104.794312 C 125.947044,-100.208855 342.029083,129.629547 337.443634,278.269684"
+              class="id_Bantam id_Miller" stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -22.693098,-104.794312 C 26.313545,4.173517 -63.628242,241.135223 -172.596069,290.141876"
+              class="id_Bantam id_Mistress_Generous" stroke-opacity="1.0"
+              stroke="#68a0b8"/>
+        <path fill="none" stroke-width="2.2"
+              d="M -22.693098,-104.794312 C -64.829720,-137.135498 -79.522888,-248.852203 -47.181702,-290.988831"
+              class="id_Bantam id_Parnell" stroke-opacity="1.0" stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -22.693098,-104.794312 C -176.330933,-221.172623 -232.220200,-626.196838 -115.841881,-779.834656"
+              class="id_Bantam id_Rabble" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -22.693098,-104.794312 C 76.033310,-9.803768 81.637100,280.771667 -13.353444,379.498047"
+              class="id_Bantam id_Robin" stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="1.5"
+              d="M -22.693098,-104.794312 C 40.121445,-169.166122 230.901001,-171.502014 295.272797,-108.687477"
+              class="id_Bantam id_Seely" stroke-opacity="1.0" stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -22.693098,-104.794312 C 2.400344,-120.207787 63.160717,-105.687828 78.574188,-80.594391"
+              class="id_Bantam id_Shakestone" stroke-opacity="1.0"
+              stroke="#d7191c"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -22.693098,-104.794312 C -52.995178,-32.190430 -207.354111,31.262270 -279.957977,0.960190"
+              class="id_Bantam id_Soldier" stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="4.3"
+              d="M -22.693098,-104.794312 C 25.469446,-101.563469 92.866982,-24.473377 89.636139,23.689167"
+              class="id_Bantam id_Whetstone" stroke-opacity="1.0"
+              stroke="#e25a4a"/>
+        <path fill="none" stroke-width="1.5"
+              d="M -22.693098,-104.794312 C 14.006092,-203.983643 217.838898,-297.718842 317.028229,-261.019653"
+              class="id_Bantam id_Winny" stroke-opacity="1.0" stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -25.112549,646.712646 C -180.560120,449.097961 -117.309418,-80.495483 80.305290,-235.943054"
+              class="id_Boy id_Doughty" stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -25.112549,646.712646 C -93.387947,539.465088 -34.929749,276.180756 72.317787,207.905350"
+              class="id_Boy id_Generous" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -25.112549,646.712646 C -281.192017,621.100891 -626.893555,198.564026 -601.281799,-57.515465"
+              class="id_Boy id_Gill" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="1.5"
+              d="M -25.112549,646.712646 C -140.818481,700.187866 -394.590179,606.841736 -448.065399,491.135803"
+              class="id_Boy id_Goody_Dickieson" stroke-opacity="1.0"
+              stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -25.112549,646.712646 C -181.048767,400.966492 -46.333878,-201.557068 199.412277,-357.493286"
+              class="id_Boy id_Gregory" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -25.112549,646.712646 C -149.565384,429.821991 -10.908691,-82.193207 205.981949,-206.646042"
+              class="id_Boy id_Joan" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -25.112549,646.712646 C -212.314636,427.738708 -164.656891,-181.525330 54.317039,-368.727417"
+              class="id_Boy id_Lawrence" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -25.112549,646.712646 C -146.758209,562.902039 -203.510742,254.717621 -119.700104,133.071960"
+              class="id_Boy id_Mall" stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -25.112549,646.712646 C -88.800560,696.506531 -259.023407,675.665405 -308.817291,611.977356"
+              class="id_Boy id_Maud" stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -25.112549,646.712646 C -195.421753,687.212158 -511.634888,492.497681 -552.134399,322.188507"
+              class="id_Boy id_Meg" stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -25.112549,646.712646 C -26.289909,500.512817 191.243805,279.447052 337.443634,278.269684"
+              class="id_Boy id_Miller" stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -25.112549,646.712646 C -125.923409,604.895203 -214.413513,390.952728 -172.596069,290.141876"
+              class="id_Boy id_Mistress_Generous" stroke-opacity="1.0"
+              stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -25.112549,646.712646 C -217.066681,463.586182 -230.308167,-99.034698 -47.181702,-290.988831"
+              class="id_Boy id_Parnell" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -25.112549,646.712646 C -76.203644,590.917908 -69.148186,430.589172 -13.353444,379.498047"
+              class="id_Boy id_Robin" stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -25.112549,646.712646 C -112.115509,431.555542 80.115692,-21.684517 295.272797,-108.687477"
+              class="id_Boy id_Seely" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -25.112549,646.712646 C -149.836609,480.513885 -87.624573,44.129669 78.574188,-80.594391"
+              class="id_Boy id_Shakestone" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -25.112549,646.712646 C -205.232132,568.531250 -358.139404,181.079773 -279.957977,0.960190"
+              class="id_Boy id_Soldier" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -25.112549,646.712646 C -48.694977,831.825623 -361.738068,1074.121460 -546.851074,1050.539063"
+              class="id_Boy id_Sprite" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -25.112549,646.712646 C -126.767509,499.158234 -57.918297,125.344131 89.636139,23.689167"
+              class="id_Boy id_Whetstone" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -25.112549,646.712646 C -138.230850,396.738037 67.053604,-147.901352 317.028229,-261.019653"
+              class="id_Boy id_Winny" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -25.112549,646.712646 C -84.384354,823.448425 -438.395660,999.644287 -615.131409,940.372498"
+              class="id_Boy id_Witch_1" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -25.112549,646.712646 C -26.328484,802.864014 -262.379395,1035.267090 -418.530731,1034.051147"
+              class="id_Boy id_Witch_3" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 80.305290,-235.943054 C 71.719177,-396.354004 299.456482,-649.849609 459.867432,-658.435730"
+              class="id_Doughty id_Fiddler" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 80.305290,-235.943054 C 167.477463,-145.575867 162.684967,120.733177 72.317787,207.905350"
+              class="id_Doughty id_Generous" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 80.305290,-235.943054 C -20.326622,-63.940109 -429.278839,43.116447 -601.281799,-57.515465"
+              class="id_Doughty id_Gill" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 80.305290,-235.943054 C 120.046921,15.146858 -196.975494,451.394165 -448.065399,491.135803"
+              class="id_Doughty id_Goody_Dickieson" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="2.2"
+              d="M 80.305290,-235.943054 C 79.816643,-284.074524 151.280838,-357.004639 199.412277,-357.493286"
+              class="id_Doughty id_Gregory" stroke-opacity="1.0"
+              stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="2.2"
+              d="M 80.305290,-235.943054 C 111.300026,-255.218979 186.706024,-237.640778 205.981949,-206.646042"
+              class="id_Doughty id_Joan" stroke-opacity="1.0" stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="2.9"
+              d="M 80.305290,-235.943054 C 48.550770,-257.302277 32.957817,-336.972870 54.317039,-368.727417"
+              class="id_Doughty id_Lawrence" stroke-opacity="1.0"
+              stroke="#f9dea7"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 80.305290,-235.943054 C 114.107224,-122.138962 -5.896011,99.270035 -119.700104,133.071960"
+              class="id_Doughty id_Mall" stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 80.305290,-235.943054 C 172.064865,11.465553 -61.408676,520.217773 -308.817291,611.977356"
+              class="id_Doughty id_Maud" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 80.305290,-235.943054 C 65.443665,2.171196 -314.020142,337.050140 -552.134399,322.188507"
+              class="id_Doughty id_Meg" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 80.305290,-235.943054 C 234.575516,-184.528168 388.858521,123.999458 337.443634,278.269684"
+              class="id_Doughty id_Miller" stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 80.305290,-235.943054 C 134.942017,-80.145782 -16.798798,235.505157 -172.596069,290.141876"
+              class="id_Doughty id_Mistress_Generous" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="2.9"
+              d="M 80.305290,-235.943054 C 43.798737,-221.454803 -32.693459,-254.482269 -47.181702,-290.988831"
+              class="id_Doughty id_Parnell" stroke-opacity="1.0"
+              stroke="#f9dea7"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 80.305290,-235.943054 C -67.702469,-305.491943 -185.390762,-631.826904 -115.841881,-779.834656"
+              class="id_Doughty id_Rabble" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 80.305290,-235.943054 C 184.661774,-94.123077 128.466522,275.141571 -13.353444,379.498047"
+              class="id_Doughty id_Robin" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="2.2"
+              d="M 80.305290,-235.943054 C 148.749908,-253.485443 277.730408,-177.132095 295.272797,-108.687477"
+              class="id_Doughty id_Seely" stroke-opacity="1.0" stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="2.2"
+              d="M 80.305290,-235.943054 C 111.028801,-204.527100 109.990143,-111.317902 78.574188,-80.594391"
+              class="id_Doughty id_Shakestone" stroke-opacity="1.0"
+              stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 80.305290,-235.943054 C 55.633286,-116.509750 -160.524658,25.632195 -279.957977,0.960190"
+              class="id_Doughty id_Soldier" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="1.5"
+              d="M 80.305290,-235.943054 C 134.097916,-185.882767 139.696411,-30.103451 89.636139,23.689167"
+              class="id_Doughty id_Whetstone" stroke-opacity="1.0"
+              stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="2.2"
+              d="M 80.305290,-235.943054 C 122.634560,-288.302979 264.668335,-303.348938 317.028229,-261.019653"
+              class="id_Doughty id_Winny" stroke-opacity="1.0" stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 459.867432,-658.435730 C 467.964874,-546.156250 311.691803,-365.590729 199.412277,-357.493286"
+              class="id_Fiddler id_Gregory" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 459.867432,-658.435730 C 499.448273,-517.300659 347.116974,-246.226868 205.981949,-206.646042"
+              class="id_Fiddler id_Joan" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 459.867432,-658.435730 C 436.699036,-519.384033 193.368790,-345.558990 54.317039,-368.727417"
+              class="id_Fiddler id_Lawrence" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 459.867432,-658.435730 C 502.255463,-384.220673 154.514954,90.683922 -119.700104,133.071960"
+              class="id_Fiddler id_Mall" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 459.867432,-658.435730 C 431.946991,-483.536530 127.717499,-263.068390 -47.181702,-290.988831"
+              class="id_Fiddler id_Parnell" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 459.867432,-658.435730 C 536.898193,-515.567139 438.141357,-185.718185 295.272797,-108.687477"
+              class="id_Fiddler id_Seely" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 459.867432,-658.435730 C 499.177032,-466.608765 270.401123,-119.904007 78.574188,-80.594391"
+              class="id_Fiddler id_Shakestone" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 459.867432,-658.435730 C 522.246155,-447.964478 300.107361,-38.689552 89.636139,23.689167"
+              class="id_Fiddler id_Whetstone" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 459.867432,-658.435730 C 510.782806,-550.384644 425.079285,-311.935028 317.028229,-261.019653"
+              class="id_Fiddler id_Winny" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 72.317787,207.905350 C -115.486282,289.541107 -519.646057,130.288605 -601.281799,-57.515465"
+              class="id_Generous id_Gill" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 72.317787,207.905350 C 24.887241,368.628082 -287.342682,538.566345 -448.065399,491.135803"
+              class="id_Generous id_Goody_Dickieson" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 72.317787,207.905350 C -15.343040,69.406723 60.913651,-269.832458 199.412277,-357.493286"
+              class="id_Generous id_Gregory" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 72.317787,207.905350 C 16.140343,98.262238 96.338837,-150.468597 205.981949,-206.646042"
+              class="id_Generous id_Joan" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 72.317787,207.905350 C -46.608917,96.178947 -57.409363,-249.800720 54.317039,-368.727417"
+              class="id_Generous id_Lawrence" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 72.317787,207.905350 C 18.947529,231.342255 -96.263199,186.442215 -119.700104,133.071960"
+              class="id_Generous id_Mall" stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 72.317787,207.905350 C 76.905182,364.946777 -151.775864,607.389954 -308.817291,611.977356"
+              class="id_Generous id_Maud" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 72.317787,207.905350 C -29.716024,355.652405 -404.387329,424.222321 -552.134399,322.188507"
+              class="id_Generous id_Meg" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 72.317787,207.905350 C 139.415817,168.953033 298.491333,211.171631 337.443634,278.269684"
+              class="id_Generous id_Miller" stroke-opacity="1.0"
+              stroke="#68a0b8"/>
+        <path fill="none" stroke-width="2.2"
+              d="M 72.317787,207.905350 C 39.782318,273.335449 -107.165993,322.677368 -172.596069,290.141876"
+              class="id_Generous id_Mistress_Generous" stroke-opacity="1.0"
+              stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 72.317787,207.905350 C -51.360943,132.026413 -123.060638,-167.310089 -47.181702,-290.988831"
+              class="id_Generous id_Parnell" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="2.9"
+              d="M 72.317787,207.905350 C 89.502083,259.358154 38.099346,362.313751 -13.353444,379.498047"
+              class="id_Generous id_Robin" stroke-opacity="1.0" stroke="#f9dea7"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 72.317787,207.905350 C 53.590221,99.995773 187.363220,-89.959915 295.272797,-108.687477"
+              class="id_Generous id_Seely" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="1.5"
+              d="M 72.317787,207.905350 C 15.869118,148.954117 19.622955,-24.145720 78.574188,-80.594391"
+              class="id_Generous id_Shakestone" stroke-opacity="1.0"
+              stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="1.5"
+              d="M 72.317787,207.905350 C -39.526398,236.971481 -250.891846,112.804375 -279.957977,0.960190"
+              class="id_Generous id_Soldier" stroke-opacity="1.0"
+              stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="2.2"
+              d="M 72.317787,207.905350 C 38.938221,167.598450 49.329235,57.068733 89.636139,23.689167"
+              class="id_Generous id_Whetstone" stroke-opacity="1.0"
+              stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 72.317787,207.905350 C 27.474876,65.178253 174.301117,-216.176743 317.028229,-261.019653"
+              class="id_Generous id_Winny" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -601.281799,-57.515465 C -460.908295,21.571505 -368.978424,350.762268 -448.065399,491.135803"
+              class="id_Gill id_Goody_Dickieson" stroke-opacity="1.0"
+              stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -601.281799,-57.515465 C -501.138550,-277.649841 -20.722111,-457.636536 199.412277,-357.493286"
+              class="id_Gill id_Gregory" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -601.281799,-57.515465 C -469.655151,-248.794327 14.703089,-338.272675 205.981949,-206.646042"
+              class="id_Gill id_Joan" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -601.281799,-57.515465 C -532.404419,-250.877625 -139.045105,-437.604797 54.317039,-368.727417"
+              class="id_Gill id_Lawrence" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -601.281799,-57.515465 C -466.847961,-115.714317 -177.898956,-1.361862 -119.700104,133.071960"
+              class="id_Gill id_Mall" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -601.281799,-57.515465 C -408.890320,17.890205 -233.411606,419.585876 -308.817291,611.977356"
+              class="id_Gill id_Maud" stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -601.281799,-57.515465 C -515.511536,8.595851 -486.023071,236.418228 -552.134399,322.188507"
+              class="id_Gill id_Meg" stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -601.281799,-57.515465 C -346.379639,-178.103531 216.855560,23.367538 337.443634,278.269684"
+              class="id_Gill id_Miller" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -601.281799,-57.515465 C -446.013214,-73.721153 -188.801758,134.873260 -172.596069,290.141876"
+              class="id_Gill id_Mistress_Generous" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -601.281799,-57.515465 C -537.156494,-215.030167 -204.696396,-355.114197 -47.181702,-290.988831"
+              class="id_Gill id_Parnell" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -601.281799,-57.515465 C -396.293396,-87.698433 -43.536407,174.509659 -13.353444,379.498047"
+              class="id_Gill id_Robin" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -601.281799,-57.515465 C -432.205292,-247.060791 105.727478,-277.763977 295.272797,-108.687477"
+              class="id_Gill id_Seely" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -601.281799,-57.515465 C -469.926392,-198.102448 -62.012787,-211.949799 78.574188,-80.594391"
+              class="id_Gill id_Shakestone" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -601.281799,-57.515465 C -525.321899,-110.085098 -332.527618,-74.999702 -279.957977,0.960190"
+              class="id_Gill id_Soldier" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -601.281799,-57.515465 C -446.857269,-179.458145 -32.306541,-130.735367 89.636139,23.689167"
+              class="id_Gill id_Whetstone" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -601.281799,-57.515465 C -458.320618,-281.878326 92.665375,-403.980835 317.028229,-261.019653"
+              class="id_Gill id_Winny" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -448.065399,491.135803 C -488.295715,191.914444 -99.809067,-317.263000 199.412277,-357.493286"
+              class="id_Goody_Dickieson id_Gregory" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -448.065399,491.135803 C -456.812317,220.769928 -64.383911,-197.899139 205.981949,-206.646042"
+              class="id_Goody_Dickieson id_Joan" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -448.065399,491.135803 C -519.561523,218.686646 -218.132095,-297.231262 54.317039,-368.727417"
+              class="id_Goody_Dickieson id_Lawrence" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -448.065399,491.135803 C -454.005096,353.849976 -256.985931,139.011658 -119.700104,133.071960"
+              class="id_Goody_Dickieson id_Mall" stroke-opacity="1.0"
+              stroke="#68a0b8"/>
+        <path fill="none" stroke-width="1.5"
+              d="M -448.065399,491.135803 C -396.047485,487.454529 -312.498596,559.959412 -308.817291,611.977356"
+              class="id_Goody_Dickieson id_Maud" stroke-opacity="1.0"
+              stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="1.5"
+              d="M -448.065399,491.135803 C -502.668671,478.160156 -565.110107,376.791779 -552.134399,322.188507"
+              class="id_Goody_Dickieson id_Meg" stroke-opacity="1.0"
+              stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -448.065399,491.135803 C -333.536804,291.460785 137.768600,163.741089 337.443634,278.269684"
+              class="id_Goody_Dickieson id_Miller" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -448.065399,491.135803 C -433.170319,395.843140 -267.888733,275.246796 -172.596069,290.141876"
+              class="id_Goody_Dickieson id_Mistress_Generous"
+              stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -448.065399,491.135803 C -524.313599,254.534149 -283.783356,-214.740631 -47.181702,-290.988831"
+              class="id_Goody_Dickieson id_Parnell" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -448.065399,491.135803 C -383.450562,381.865875 -122.623390,314.883209 -13.353444,379.498047"
+              class="id_Goody_Dickieson id_Robin" stroke-opacity="1.0"
+              stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -448.065399,491.135803 C -419.362427,222.503510 26.640503,-137.390442 295.272797,-108.687477"
+              class="id_Goody_Dickieson id_Seely" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -448.065399,491.135803 C -457.083557,271.461792 -141.099792,-71.576263 78.574188,-80.594391"
+              class="id_Goody_Dickieson id_Shakestone" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -448.065399,491.135803 C -512.479004,359.479187 -411.614594,65.373833 -279.957977,0.960190"
+              class="id_Goody_Dickieson id_Soldier" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -448.065399,491.135803 C -355.941895,622.773621 -415.213287,958.415527 -546.851074,1050.539063"
+              class="id_Goody_Dickieson id_Sprite" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -448.065399,491.135803 C -434.014404,290.106171 -111.393494,9.638191 89.636139,23.689167"
+              class="id_Goody_Dickieson id_Whetstone" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -448.065399,491.135803 C -445.477783,187.685989 13.578415,-263.607300 317.028229,-261.019653"
+              class="id_Goody_Dickieson id_Winny" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -448.065399,491.135803 C -391.631287,614.396362 -491.870850,883.938354 -615.131409,940.372498"
+              class="id_Goody_Dickieson id_Witch_1" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -448.065399,491.135803 C -333.575409,593.811951 -315.854584,919.561157 -418.530731,1034.051147"
+              class="id_Goody_Dickieson id_Witch_3" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="2.2"
+              d="M 199.412277,-357.493286 C 230.895660,-328.637756 234.837463,-238.129425 205.981949,-206.646042"
+              class="id_Gregory id_Joan" stroke-opacity="1.0" stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="2.2"
+              d="M 199.412277,-357.493286 C 168.146393,-330.721069 81.089264,-337.461548 54.317039,-368.727417"
+              class="id_Gregory id_Lawrence" stroke-opacity="1.0"
+              stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 199.412277,-357.493286 C 233.702850,-195.557770 42.235416,98.781387 -119.700104,133.071960"
+              class="id_Gregory id_Mall" stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 199.412277,-357.493286 C 291.660492,-61.953239 -13.277252,519.729126 -308.817291,611.977356"
+              class="id_Gregory id_Maud" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 199.412277,-357.493286 C 185.039291,-71.247589 -265.888733,336.561493 -552.134399,322.188507"
+              class="id_Gregory id_Meg" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 199.412277,-357.493286 C 354.171143,-257.946960 436.989960,123.510818 337.443634,278.269684"
+              class="id_Gregory id_Miller" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 199.412277,-357.493286 C 254.537643,-153.564575 31.332642,235.016510 -172.596069,290.141876"
+              class="id_Gregory id_Mistress_Generous" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="2.2"
+              d="M 199.412277,-357.493286 C 163.394363,-294.873596 15.437987,-254.970932 -47.181702,-290.988831"
+              class="id_Gregory id_Parnell" stroke-opacity="1.0"
+              stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 199.412277,-357.493286 C 304.257385,-167.541870 176.597961,274.652924 -13.353444,379.498047"
+              class="id_Gregory id_Robin" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="2.2"
+              d="M 199.412277,-357.493286 C 268.345551,-326.904236 325.861877,-177.620743 295.272797,-108.687477"
+              class="id_Gregory id_Seely" stroke-opacity="1.0" stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="1.5"
+              d="M 199.412277,-357.493286 C 230.624435,-277.945862 158.121582,-111.806549 78.574188,-80.594391"
+              class="id_Gregory id_Shakestone" stroke-opacity="1.0"
+              stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 199.412277,-357.493286 C 175.228912,-189.928528 -112.393227,25.143547 -279.957977,0.960190"
+              class="id_Gregory id_Soldier" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="1.5"
+              d="M 199.412277,-357.493286 C 253.693542,-259.301575 187.827850,-30.592094 89.636139,23.689167"
+              class="id_Gregory id_Whetstone" stroke-opacity="1.0"
+              stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="2.2"
+              d="M 199.412277,-357.493286 C 242.230194,-361.721741 312.799774,-303.837585 317.028229,-261.019653"
+              class="id_Gregory id_Winny" stroke-opacity="1.0" stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="2.2"
+              d="M 205.981949,-206.646042 C 143.232697,-208.729340 52.233746,-305.978149 54.317039,-368.727417"
+              class="id_Joan id_Lawrence" stroke-opacity="1.0" stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 205.981949,-206.646042 C 208.789139,-73.566025 13.379913,130.264771 -119.700104,133.071960"
+              class="id_Joan id_Mall" stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 205.981949,-206.646042 C 266.746765,60.038498 -42.132751,551.212524 -308.817291,611.977356"
+              class="id_Joan id_Maud" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 205.981949,-206.646042 C 160.125580,50.744133 -294.744202,368.044861 -552.134399,322.188507"
+              class="id_Joan id_Meg" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 205.981949,-206.646042 C 329.257446,-135.955231 408.134460,154.994202 337.443634,278.269684"
+              class="id_Joan id_Miller" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 205.981949,-206.646042 C 229.623932,-31.572861 2.477112,266.499908 -172.596069,290.141876"
+              class="id_Joan id_Mistress_Generous" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="2.2"
+              d="M 205.981949,-206.646042 C 138.480652,-172.881866 -13.417532,-223.487549 -47.181702,-290.988831"
+              class="id_Joan id_Parnell" stroke-opacity="1.0" stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 205.981949,-206.646042 C 279.343689,-45.550133 147.742462,306.136292 -13.353444,379.498047"
+              class="id_Joan id_Robin" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="2.2"
+              d="M 205.981949,-206.646042 C 243.431824,-204.912491 297.006317,-146.137360 295.272797,-108.687477"
+              class="id_Joan id_Seely" stroke-opacity="1.0" stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="1.5"
+              d="M 205.981949,-206.646042 C 205.710724,-155.954163 129.266068,-80.323166 78.574188,-80.594391"
+              class="id_Joan id_Shakestone" stroke-opacity="1.0"
+              stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 205.981949,-206.646042 C 150.315216,-67.936798 -141.248749,56.626930 -279.957977,0.960190"
+              class="id_Joan id_Soldier" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="1.5"
+              d="M 205.981949,-206.646042 C 228.779816,-137.309845 158.972351,0.891289 89.636139,23.689167"
+              class="id_Joan id_Whetstone" stroke-opacity="1.0" stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="2.2"
+              d="M 205.981949,-206.646042 C 217.316483,-239.730026 283.944244,-272.354187 317.028229,-261.019653"
+              class="id_Joan id_Winny" stroke-opacity="1.0" stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 54.317039,-368.727417 C 119.873489,-233.564117 15.463211,67.515518 -119.700104,133.071960"
+              class="id_Lawrence id_Mall" stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 54.317039,-368.727417 C 177.831131,-99.959587 -40.049469,488.463257 -308.817291,611.977356"
+              class="id_Lawrence id_Maud" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 54.317039,-368.727417 C 71.209923,-109.253967 -292.660950,305.295624 -552.134399,322.188507"
+              class="id_Lawrence id_Meg" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 54.317039,-368.727417 C 240.341766,-295.953308 410.217743,92.244949 337.443634,278.269684"
+              class="id_Lawrence id_Miller" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 54.317039,-368.727417 C 140.708282,-191.570923 4.560425,203.750641 -172.596069,290.141876"
+              class="id_Lawrence id_Mistress_Generous" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="2.9"
+              d="M 54.317039,-368.727417 C 49.565006,-332.879944 -11.334235,-286.236816 -47.181702,-290.988831"
+              class="id_Lawrence id_Parnell" stroke-opacity="1.0"
+              stroke="#f9dea7"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 54.317039,-368.727417 C -61.936195,-416.917053 -164.031555,-663.581421 -115.841881,-779.834656"
+              class="id_Lawrence id_Rabble" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 54.317039,-368.727417 C 190.428040,-205.548218 149.825745,243.387054 -13.353444,379.498047"
+              class="id_Lawrence id_Robin" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="2.2"
+              d="M 54.317039,-368.727417 C 154.516190,-364.910583 299.089630,-208.886627 295.272797,-108.687477"
+              class="id_Lawrence id_Seely" stroke-opacity="1.0" stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="2.2"
+              d="M 54.317039,-368.727417 C 116.795074,-315.952240 131.349365,-143.072418 78.574188,-80.594391"
+              class="id_Lawrence id_Shakestone" stroke-opacity="1.0"
+              stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 54.317039,-368.727417 C 61.399551,-227.934906 -139.165451,-6.122322 -279.957977,0.960190"
+              class="id_Lawrence id_Soldier" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="1.5"
+              d="M 54.317039,-368.727417 C 139.864182,-297.307892 161.055634,-61.857975 89.636139,23.689167"
+              class="id_Lawrence id_Whetstone" stroke-opacity="1.0"
+              stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="2.2"
+              d="M 54.317039,-368.727417 C 128.400833,-399.728088 286.027557,-335.103455 317.028229,-261.019653"
+              class="id_Lawrence id_Winny" stroke-opacity="1.0" stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -119.700104,133.071960 C -61.742462,266.676483 -175.212784,554.019714 -308.817291,611.977356"
+              class="id_Mall id_Maud" stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -119.700104,133.071960 C -168.363647,257.382111 -427.824249,370.852051 -552.134399,322.188507"
+              class="id_Mall id_Meg" stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -119.700104,133.071960 C 0.768190,70.682762 275.054443,157.801392 337.443634,278.269684"
+              class="id_Mall id_Miller" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="3.6"
+              d="M -119.700104,133.071960 C -98.865311,175.065140 -130.602890,269.307098 -172.596069,290.141876"
+              class="id_Mall id_Mistress_Generous" stroke-opacity="1.0"
+              stroke="#ed9c79"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -119.700104,133.071960 C -190.008591,33.756115 -146.497543,-220.680344 -47.181702,-290.988831"
+              class="id_Mall id_Parnell" stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="1.5"
+              d="M -119.700104,133.071960 C -49.145554,161.087845 14.662441,308.943512 -13.353444,379.498047"
+              class="id_Mall id_Robin" stroke-opacity="1.0" stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -119.700104,133.071960 C -85.057404,1.725494 163.926331,-143.330170 295.272797,-108.687477"
+              class="id_Mall id_Seely" stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="1.5"
+              d="M -119.700104,133.071960 C -122.778519,50.683826 -3.813942,-77.515976 78.574188,-80.594391"
+              class="id_Mall id_Shakestone" stroke-opacity="1.0"
+              stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -119.700104,133.071960 C -178.174026,138.701172 -274.328766,59.434120 -279.957977,0.960190"
+              class="id_Mall id_Soldier" stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -119.700104,133.071960 C -21.636887,401.995575 -277.927429,952.475830 -546.851074,1050.539063"
+              class="id_Mall id_Sprite" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="2.9"
+              d="M -119.700104,133.071960 C -99.709412,69.328156 25.892330,3.698479 89.636139,23.689167"
+              class="id_Mall id_Whetstone" stroke-opacity="1.0" stroke="#f9dea7"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -119.700104,133.071960 C -111.172752,-33.092033 150.864227,-269.546997 317.028229,-261.019653"
+              class="id_Mall id_Winny" stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -119.700104,133.071960 C -57.326263,393.618347 -354.585052,877.998596 -615.131409,940.372498"
+              class="id_Mall id_Witch_1" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -119.700104,133.071960 C 0.729599,373.033905 -178.568787,913.621460 -418.530731,1034.051147"
+              class="id_Mall id_Witch_3" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="1.5"
+              d="M -308.817291,611.977356 C -415.438477,602.683044 -561.428772,428.809692 -552.134399,322.188507"
+              class="id_Maud id_Meg" stroke-opacity="1.0" stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -308.817291,611.977356 C -246.306641,415.983643 141.449890,215.759033 337.443634,278.269684"
+              class="id_Maud id_Miller" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -308.817291,611.977356 C -345.940155,520.365967 -264.207428,327.264740 -172.596069,290.141876"
+              class="id_Maud id_Mistress_Generous" stroke-opacity="1.0"
+              stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -308.817291,611.977356 C -437.083435,379.056976 -280.102051,-162.722702 -47.181702,-290.988831"
+              class="id_Maud id_Parnell" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -308.817291,611.977356 C -296.220367,506.388733 -118.942078,366.901123 -13.353444,379.498047"
+              class="id_Maud id_Robin" stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -308.817291,611.977356 C -332.132263,347.026337 30.321793,-85.372520 295.272797,-108.687477"
+              class="id_Maud id_Seely" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -308.817291,611.977356 C -369.853333,395.984711 -137.418457,-19.558327 78.574188,-80.594391"
+              class="id_Maud id_Shakestone" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -308.817291,611.977356 C -425.248871,484.002075 -407.933258,117.391754 -279.957977,0.960190"
+              class="id_Maud id_Soldier" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -308.817291,611.977356 C -268.711700,747.296448 -411.531982,1010.433472 -546.851074,1050.539063"
+              class="id_Maud id_Sprite" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -308.817291,611.977356 C -346.784241,414.629028 -107.712181,61.656120 89.636139,23.689167"
+              class="id_Maud id_Whetstone" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -308.817291,611.977356 C -358.247589,312.208801 17.259705,-211.589355 317.028229,-261.019653"
+              class="id_Maud id_Winny" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -308.817291,611.977356 C -304.401062,738.919189 -488.189575,935.956299 -615.131409,940.372498"
+              class="id_Maud id_Witch_1" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -308.817291,611.977356 C -246.345215,718.334778 -312.173279,971.579102 -418.530731,1034.051147"
+              class="id_Maud id_Witch_3" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -552.134399,322.188507 C -383.002563,135.489151 150.744263,109.137833 337.443634,278.269684"
+              class="id_Meg id_Miller" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -552.134399,322.188507 C -482.636078,239.871506 -254.913071,220.643539 -172.596069,290.141876"
+              class="id_Meg id_Mistress_Generous" stroke-opacity="1.0"
+              stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -552.134399,322.188507 C -573.779358,98.562500 -270.807709,-269.343903 -47.181702,-290.988831"
+              class="id_Meg id_Parnell" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -552.134399,322.188507 C -432.916290,225.894226 -109.647728,260.279938 -13.353444,379.498047"
+              class="id_Meg id_Robin" stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -552.134399,322.188507 C -468.828156,66.531860 39.616150,-191.993713 295.272797,-108.687477"
+              class="id_Meg id_Seely" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -552.134399,322.188507 C -506.549255,115.490204 -128.124115,-126.179535 78.574188,-80.594391"
+              class="id_Meg id_Shakestone" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -552.134399,322.188507 C -561.944763,203.507553 -398.638916,10.770569 -279.957977,0.960190"
+              class="id_Meg id_Soldier" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -552.134399,322.188507 C -405.407654,466.801971 -402.237610,903.812317 -546.851074,1050.539063"
+              class="id_Meg id_Sprite" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -552.134399,322.188507 C -483.480164,134.134552 -98.417816,-44.965065 89.636139,23.689167"
+              class="id_Meg id_Whetstone" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -552.134399,322.188507 C -494.943512,31.714355 26.554085,-318.210541 317.028229,-261.019653"
+              class="id_Meg id_Winny" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -552.134399,322.188507 C -441.097046,458.424713 -478.895203,829.335144 -615.131409,940.372498"
+              class="id_Meg id_Witch_1" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -552.134399,322.188507 C -383.041168,437.840302 -302.878937,864.957886 -418.530731,1034.051147"
+              class="id_Meg id_Witch_3" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 337.443634,278.269684 C 237.810120,382.652100 -68.213684,389.775391 -172.596069,290.141876"
+              class="id_Miller id_Mistress_Generous" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 337.443634,278.269684 C 146.666840,241.343048 -84.108337,-100.212044 -47.181702,-290.988831"
+              class="id_Miller id_Parnell" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 337.443634,278.269684 C 287.529877,368.674774 77.051651,429.411804 -13.353444,379.498047"
+              class="id_Miller id_Robin" stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 337.443634,278.269684 C 251.618027,209.312424 226.315536,-22.861876 295.272797,-108.687477"
+              class="id_Miller id_Seely" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 337.443634,278.269684 C 213.896912,258.270752 58.575264,42.952320 78.574188,-80.594391"
+              class="id_Miller id_Shakestone" stroke-opacity="1.0"
+              stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 337.443634,278.269684 C 158.501419,346.288086 -211.939560,179.902405 -279.957977,0.960190"
+              class="id_Miller id_Soldier" stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 337.443634,278.269684 C 236.966034,276.915070 88.281525,124.166771 89.636139,23.689167"
+              class="id_Miller id_Whetstone" stroke-opacity="1.0"
+              stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 337.443634,278.269684 C 225.502716,174.494919 213.253448,-149.078720 317.028229,-261.019653"
+              class="id_Miller id_Winny" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -172.596069,290.141876 C -263.739349,148.832855 -188.490723,-199.845551 -47.181702,-290.988831"
+              class="id_Mistress_Generous id_Parnell" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="2.2"
+              d="M -172.596069,290.141876 C -122.876312,276.164612 -27.330736,329.778290 -13.353444,379.498047"
+              class="id_Mistress_Generous id_Robin" stroke-opacity="1.0"
+              stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -172.596069,290.141876 C -158.788162,116.802231 121.933151,-122.495384 295.272797,-108.687477"
+              class="id_Mistress_Generous id_Seely" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -172.596069,290.141876 C -196.509277,165.760574 -45.807121,-56.681190 78.574188,-80.594391"
+              class="id_Mistress_Generous id_Shakestone" stroke-opacity="1.0"
+              stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -172.596069,290.141876 C -251.904785,253.777924 -316.321930,80.268913 -279.957977,0.960190"
+              class="id_Mistress_Generous id_Soldier" stroke-opacity="1.0"
+              stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -172.596069,290.141876 C -95.367615,517.072327 -319.920593,973.310608 -546.851074,1050.539063"
+              class="id_Mistress_Generous id_Sprite" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="2.2"
+              d="M -172.596069,290.141876 C -173.440170,184.404892 -16.100842,24.533264 89.636139,23.689167"
+              class="id_Mistress_Generous id_Whetstone" stroke-opacity="1.0"
+              stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -172.596069,290.141876 C -184.903503,81.984711 108.871056,-248.712219 317.028229,-261.019653"
+              class="id_Mistress_Generous id_Winny" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -172.596069,290.141876 C -131.057022,508.695068 -396.578186,898.833435 -615.131409,940.372498"
+              class="id_Mistress_Generous id_Witch_1" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -172.596069,290.141876 C -73.001129,488.110718 -220.561935,934.456238 -418.530731,1034.051147"
+              class="id_Mistress_Generous id_Witch_3" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -47.181702,-290.988831 C -158.682907,-375.025970 -199.879028,-668.333435 -115.841881,-779.834656"
+              class="id_Parnell id_Rabble" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -47.181702,-290.988831 C 93.681335,-163.657104 113.978287,238.635010 -13.353444,379.498047"
+              class="id_Parnell id_Robin" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="2.2"
+              d="M -47.181702,-290.988831 C 57.769478,-323.019470 263.242157,-213.638657 295.272797,-108.687477"
+              class="id_Parnell id_Seely" stroke-opacity="1.0" stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="2.2"
+              d="M -47.181702,-290.988831 C 20.048370,-274.061127 95.501900,-147.824463 78.574188,-80.594391"
+              class="id_Parnell id_Shakestone" stroke-opacity="1.0"
+              stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -47.181702,-290.988831 C -35.347149,-186.043777 -175.012924,-10.874363 -279.957977,0.960190"
+              class="id_Parnell id_Soldier" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="1.5"
+              d="M -47.181702,-290.988831 C 43.117470,-255.416794 125.208176,-66.610008 89.636139,23.689167"
+              class="id_Parnell id_Whetstone" stroke-opacity="1.0"
+              stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="2.2"
+              d="M -47.181702,-290.988831 C 31.654121,-357.836975 250.180084,-339.855469 317.028229,-261.019653"
+              class="id_Parnell id_Winny" stroke-opacity="1.0" stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -115.841881,-779.834656 C 62.889389,-678.869812 179.539032,-259.325653 78.574188,-80.594391"
+              class="id_Rabble id_Shakestone" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -13.353444,379.498047 C -49.265301,220.135681 135.910431,-72.775620 295.272797,-108.687477"
+              class="id_Robin id_Seely" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -13.353444,379.498047 C -86.986404,269.094025 -31.829826,-6.961432 78.574188,-80.594391"
+              class="id_Robin id_Shakestone" stroke-opacity="1.0"
+              stroke="#68a0b8"/>
+        <path fill="none" stroke-width="1.5"
+              d="M -13.353444,379.498047 C -142.381927,357.111359 -302.344635,129.988663 -279.957977,0.960190"
+              class="id_Robin id_Soldier" stroke-opacity="1.0" stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -13.353444,379.498047 C 14.155235,620.405762 -305.943359,1023.030396 -546.851074,1050.539063"
+              class="id_Robin id_Sprite" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -13.353444,379.498047 C -63.917305,287.738342 -2.123558,74.253036 89.636139,23.689167"
+              class="id_Robin id_Whetstone" stroke-opacity="1.0"
+              stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -13.353444,379.498047 C -75.380646,185.318161 122.848343,-198.992447 317.028229,-261.019653"
+              class="id_Robin id_Winny" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -13.353444,379.498047 C -21.534149,612.028564 -382.600922,948.553223 -615.131409,940.372498"
+              class="id_Robin id_Witch_1" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -13.353444,379.498047 C 36.521729,591.444153 -206.584641,984.175964 -418.530731,1034.051147"
+              class="id_Robin id_Witch_3" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="1.5"
+              d="M 295.272797,-108.687477 C 257.551697,-59.729141 127.532524,-42.873283 78.574188,-80.594391"
+              class="id_Seely id_Shakestone" stroke-opacity="1.0"
+              stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 295.272797,-108.687477 C 202.156174,28.288216 -142.982285,94.076813 -279.957977,0.960190"
+              class="id_Seely id_Soldier" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="1.5"
+              d="M 295.272797,-108.687477 C 280.620789,-41.084812 157.238800,38.341167 89.636139,23.689167"
+              class="id_Seely id_Whetstone" stroke-opacity="1.0"
+              stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="2.2"
+              d="M 295.272797,-108.687477 C 269.157440,-143.505005 282.210724,-234.904312 317.028229,-261.019653"
+              class="id_Seely id_Winny" stroke-opacity="1.0" stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 78.574188,-80.594391 C 23.178677,7.422951 -191.940643,56.355701 -279.957977,0.960190"
+              class="id_Shakestone id_Soldier" stroke-opacity="1.0"
+              stroke="#68a0b8"/>
+        <path fill="none" stroke-width="4.3"
+              d="M 78.574188,-80.594391 C 101.643288,-61.950069 108.280464,0.620066 89.636139,23.689167"
+              class="id_Shakestone id_Whetstone" stroke-opacity="1.0"
+              stroke="#e25a4a"/>
+        <path fill="none" stroke-width="1.5"
+              d="M 78.574188,-80.594391 C 90.179947,-164.370255 233.252380,-272.625397 317.028229,-261.019653"
+              class="id_Shakestone id_Winny" stroke-opacity="1.0"
+              stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -279.957977,0.960190 C -201.493362,-68.412842 20.263111,-54.775452 89.636139,23.689167"
+              class="id_Soldier id_Whetstone" stroke-opacity="1.0"
+              stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -279.957977,0.960190 C -212.956696,-170.833038 145.235016,-328.020935 317.028229,-261.019653"
+              class="id_Soldier id_Winny" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -546.851074,1050.539063 C -582.540466,1042.161743 -623.508667,976.061890 -615.131409,940.372498"
+              class="id_Sprite id_Witch_1" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -546.851074,1050.539063 C -524.484619,1021.577393 -447.492371,1011.684692 -418.530731,1034.051147"
+              class="id_Sprite id_Witch_3" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="1.5"
+              d="M 89.636139,23.689167 C 78.172791,-78.731018 214.608032,-249.556305 317.028229,-261.019653"
+              class="id_Whetstone id_Winny" stroke-opacity="1.0"
+              stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -615.131409,940.372498 C -557.075562,919.788086 -439.115143,975.995300 -418.530731,1034.051147"
+              class="id_Witch_1 id_Witch_3" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#f97743" r="20.0" cx="0.056035865"
+                class="id_Arthur" cy="-0.037184462" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="18.47826" cx="-22.693098"
+                class="id_Bantam" cy="-104.79431" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="10.869565" cx="-25.112549"
+                class="id_Boy" cy="646.71265" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#C0C0C0" r="16.086956" cx="80.30529"
+                class="id_Doughty" cy="-235.94305" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="6.304348" cx="459.86743"
+                class="id_Fiddler" cy="-658.4357" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="13.043478" cx="72.31779"
+                class="id_Generous" cy="207.90535" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="8.913044" cx="-601.2818"
+                class="id_Gill" cy="-57.515465" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="11.086956" cx="-448.0654"
+                class="id_Goody_Dickieson" cy="491.1358" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="14.347826" cx="199.41228"
+                class="id_Gregory" cy="-357.4933" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="14.347826" cx="205.98195"
+                class="id_Joan" cy="-206.64604" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="15.652174" cx="54.31704"
+                class="id_Lawrence" cy="-368.72742" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="15.869565" cx="-119.7001"
+                class="id_Mall" cy="133.07196" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="10.869565" cx="-308.8173"
+                class="id_Maud" cy="611.97736" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="10.869565" cx="-552.1344"
+                class="id_Meg" cy="322.1885" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="10.217392" cx="337.44363"
+                class="id_Miller" cy="278.26968" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="13.913043" cx="-172.59607"
+                class="id_Mistress_Generous" cy="290.14188" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="15.652174" cx="-47.1817"
+                class="id_Parnell" cy="-290.98883" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="5.0" cx="-115.84188"
+                class="id_Rabble" cy="-779.83466" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="13.478261" cx="-13.353444"
+                class="id_Robin" cy="379.49805" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="14.347826" cx="295.2728"
+                class="id_Seely" cy="-108.68748" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="18.47826" cx="78.57419"
+                class="id_Shakestone" cy="-80.59439" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="10.869565" cx="-279.95798"
+                class="id_Soldier" cy="0.9601897" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="18.47826" cx="89.63614"
+                class="id_Whetstone" cy="23.689167" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="14.347826" cx="317.02823"
+                class="id_Winny" cy="-261.01965" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#C0C0C0" r="5.652174" cx="-546.8511"
+                class="id_Sprite" cy="1050.5391" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#C0C0C0" r="5.652174" cx="-615.1314"
+                class="id_Witch_1" cy="940.3725" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#C0C0C0" r="5.652174" cx="-418.53073"
+                class="id_Witch_3" cy="1034.0511" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="40" x="0.056035865" y="7.301683" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Arthur">
+            Arthur
+        </text>
+        <text font-size="37" x="-22.693098" y="-97.996826" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Bantam">
+            Bantam
+        </text>
+        <text font-size="22" x="-25.112549" y="651.8367" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Boy">
+            Boy
+        </text>
+        <text font-size="32" x="80.30529" y="-228.41571" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Doughty">
+            Doughty
+        </text>
+        <text font-size="13" x="459.86743" y="-656.0363" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Fiddler">
+            Fiddler
+        </text>
+        <text font-size="26" x="72.31779" y="212.81844" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Generous">
+            Generous
+        </text>
+        <text font-size="18" x="-601.2818" y="-54.118492" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Gill">
+            Gill
+        </text>
+        <text font-size="22" x="-448.0654" y="496.36188" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Goody_Dickieson">
+            Goody_Dickieson
+        </text>
+        <text font-size="29" x="199.41228" y="-350.5548" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Gregory">
+            Gregory
+        </text>
+        <text font-size="29" x="205.98195" y="-201.30766" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Joan">
+            Joan
+        </text>
+        <text font-size="31" x="54.31704" y="-363.02466" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Lawrence">
+            Lawrence
+        </text>
+        <text font-size="32" x="-119.7001" y="138.95087" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Mall">
+            Mall
+        </text>
+        <text font-size="22" x="-308.8173" y="616.0379" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Maud">
+            Maud
+        </text>
+        <text font-size="22" x="-552.1344" y="327.35013" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Meg">
+            Meg
+        </text>
+        <text font-size="20" x="337.44363" y="281.94888" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Miller">
+            Miller
+        </text>
+        <text font-size="28" x="-172.59607" y="296.16776" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Mistress_Generous">
+            Mistress_Generous
+        </text>
+        <text font-size="31" x="-47.1817" y="-285.28607" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Parnell">
+            Parnell
+        </text>
+        <text font-size="10" x="-115.84188" y="-777.98895" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Rabble">
+            Rabble
+        </text>
+        <text font-size="27" x="-13.353444" y="384.48474" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Robin">
+            Robin
+        </text>
+        <text font-size="29" x="295.2728" y="-101.8021" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Seely">
+            Seely
+        </text>
+        <text font-size="37" x="78.57419" y="-73.598175" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Shakestone">
+            Shakestone
+        </text>
+        <text font-size="22" x="-279.95798" y="5.120102" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Soldier">
+            Soldier
+        </text>
+        <text font-size="37" x="89.63614" y="30.531818" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Whetstone">
+            Whetstone
+        </text>
+        <text font-size="29" x="317.02823" y="-254.26526" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Winny">
+            Winny
+        </text>
+        <text font-size="11" x="-546.8511" y="1053.1346" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Sprite">
+            Sprite
+        </text>
+        <text font-size="11" x="-615.1314" y="942.6955" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Witch_1">
+            Witch_1
+        </text>
+        <text font-size="11" x="-418.53073" y="1036.3741" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Witch_3">
+            Witch_3
+        </text>
+    </g>
+</svg>

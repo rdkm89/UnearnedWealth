@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="685.9364"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-246.936371 -305.000000 685.936401 510.262207" height="510.2622"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="2.2"
+              d="M 52.343590,50.788639 C 46.150887,85.351120 -14.981895,127.905800 -49.544380,121.713097"
+              class="id_Anvil id_Beavis" stroke-opacity="1.0" stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="2.2"
+              d="M 52.343590,50.788639 C 79.077950,55.214676 112.540428,101.955261 108.114388,128.689621"
+              class="id_Anvil id_Bulfinch" stroke-opacity="1.0" stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 52.343590,50.788639 C -27.038071,56.842236 -155.190948,-53.149864 -161.244553,-132.531525"
+              class="id_Anvil id_Clerk" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 52.343590,50.788639 C 27.953238,116.518539 -107.227127,178.527863 -172.957031,154.137512"
+              class="id_Anvil id_Constance" stroke-opacity="1.0"
+              stroke="#68a0b8"/>
+        <path fill="none" stroke-width="2.2"
+              d="M 52.343590,50.788639 C 72.438339,16.675365 153.750381,-4.352417 187.863647,15.742333"
+              class="id_Anvil id_Fitchow" stroke-opacity="1.0" stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 52.343590,50.788639 C 117.328720,-36.728996 346.082855,-70.527756 433.600494,-5.542633"
+              class="id_Anvil id_Flaps" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 52.343590,50.788639 C 4.370586,4.191491 2.306801,-137.663742 48.903950,-185.636749"
+              class="id_Anvil id_Holdup" stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="2.9"
+              d="M 52.343590,50.788639 C 33.738739,17.763201 55.369614,-59.682240 88.395050,-78.287094"
+              class="id_Anvil id_Howdee" stroke-opacity="1.0" stroke="#f9dea7"/>
+        <path fill="none" stroke-width="2.9"
+              d="M 52.343590,50.788639 C 34.273216,60.295956 -7.093315,47.451378 -16.600632,29.381004"
+              class="id_Anvil id_Luckless" stroke-opacity="1.0" stroke="#f9dea7"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 52.343590,50.788639 C -9.727395,95.334152 -169.652130,69.045929 -214.197632,6.974948"
+              class="id_Anvil id_Nonsense" stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="1.5"
+              d="M 52.343590,50.788639 C 22.014637,85.090599 -74.931709,91.050110 -109.233673,60.721161"
+              class="id_Anvil id_Pate" stroke-opacity="1.0" stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="1.5"
+              d="M 52.343590,50.788639 C 8.681168,41.891010 -43.466030,-36.949066 -34.568401,-80.611488"
+              class="id_Anvil id_Squelch" stroke-opacity="1.0" stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="2.2"
+              d="M 52.343590,50.788639 C 9.833932,64.571808 -74.605293,21.482063 -88.388458,-21.027594"
+              class="id_Anvil id_Trainwell" stroke-opacity="1.0"
+              stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="4.3"
+              d="M 52.343590,50.788639 C 52.370785,31.443945 81.428627,2.467703 100.773315,2.494901"
+              class="id_Anvil id_Triedwell" stroke-opacity="1.0"
+              stroke="#e25a4a"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 52.343590,50.788639 C -42.466118,7.003469 -119.002937,-200.888870 -75.217766,-295.698578"
+              class="id_Anvil id_Vexhem" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 52.343590,50.788639 C 38.231983,39.086418 34.617901,0.365680 46.320122,-13.745927"
+              class="id_Anvil id_Wigeon" stroke-opacity="1.0" stroke="#d7191c"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -49.544380,121.713097 C -16.617321,91.576645 77.977936,95.762566 108.114388,128.689621"
+              class="id_Beavis id_Bulfinch" stroke-opacity="1.0"
+              stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -49.544380,121.713097 C -122.733337,93.204201 -189.753448,-59.342567 -161.244553,-132.531525"
+              class="id_Beavis id_Clerk" stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="1.5"
+              d="M -49.544380,121.713097 C -67.742027,152.880508 -141.789627,172.335159 -172.957031,154.137512"
+              class="id_Beavis id_Constance" stroke-opacity="1.0"
+              stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -49.544380,121.713097 C -23.256929,53.037338 119.187897,-10.545116 187.863647,15.742333"
+              class="id_Beavis id_Fitchow" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -49.544380,121.713097 C -91.324684,40.553459 -32.255688,-143.856445 48.903950,-185.636749"
+              class="id_Beavis id_Holdup" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -49.544380,121.713097 C -61.956528,54.125175 20.807133,-65.874947 88.395050,-78.287094"
+              class="id_Beavis id_Howdee" stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="1.5"
+              d="M -49.544380,121.713097 C -61.422050,96.657921 -41.655800,41.258675 -16.600632,29.381004"
+              class="id_Beavis id_Luckless" stroke-opacity="1.0"
+              stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="1.5"
+              d="M -49.544380,121.713097 C -105.422668,131.696121 -204.214615,62.853230 -214.197632,6.974948"
+              class="id_Beavis id_Nonsense" stroke-opacity="1.0"
+              stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="1.5"
+              d="M -49.544380,121.713097 C -73.680626,121.452568 -109.494202,84.857407 -109.233673,60.721161"
+              class="id_Beavis id_Pate" stroke-opacity="1.0" stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="1.5"
+              d="M -49.544380,121.713097 C -87.014099,78.252991 -78.028519,-43.141769 -34.568401,-80.611488"
+              class="id_Beavis id_Squelch" stroke-opacity="1.0" stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="2.2"
+              d="M -49.544380,121.713097 C -85.861328,100.933777 -109.167786,15.289359 -88.388458,-21.027594"
+              class="id_Beavis id_Trainwell" stroke-opacity="1.0"
+              stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="1.5"
+              d="M -49.544380,121.713097 C -43.324482,67.805916 46.866135,-3.724997 100.773315,2.494901"
+              class="id_Beavis id_Triedwell" stroke-opacity="1.0"
+              stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -49.544380,121.713097 C -138.161407,43.365429 -153.565430,-207.081558 -75.217766,-295.698578"
+              class="id_Beavis id_Vexhem" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="1.5"
+              d="M -49.544380,121.713097 C -57.463284,75.448395 0.055416,-5.827024 46.320122,-13.745927"
+              class="id_Beavis id_Wigeon" stroke-opacity="1.0" stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 108.114388,128.689621 C 1.998363,130.317184 -159.616989,-26.415501 -161.244553,-132.531525"
+              class="id_Bulfinch id_Clerk" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 108.114388,128.689621 C 56.989681,189.993484 -111.653175,205.262207 -172.957031,154.137512"
+              class="id_Bulfinch id_Constance" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="1.5"
+              d="M 108.114388,128.689621 C 101.474777,90.150307 149.324326,22.381939 187.863647,15.742333"
+              class="id_Bulfinch id_Fitchow" stroke-opacity="1.0"
+              stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 108.114388,128.689621 C 33.407028,77.666435 -2.119236,-110.929390 48.903950,-185.636749"
+              class="id_Bulfinch id_Holdup" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="1.5"
+              d="M 108.114388,128.689621 C 62.775177,91.238152 50.943581,-32.947887 88.395050,-78.287094"
+              class="id_Bulfinch id_Howdee" stroke-opacity="1.0"
+              stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="1.5"
+              d="M 108.114388,128.689621 C 63.309662,133.770905 -11.519352,74.185730 -16.600632,29.381004"
+              class="id_Bulfinch id_Luckless" stroke-opacity="1.0"
+              stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 108.114388,128.689621 C 19.309050,168.809082 -174.078171,95.780289 -214.197632,6.974948"
+              class="id_Bulfinch id_Nonsense" stroke-opacity="1.0"
+              stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 108.114388,128.689621 C 51.051083,158.565552 -79.357750,117.784462 -109.233673,60.721161"
+              class="id_Bulfinch id_Pate" stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 108.114388,128.689621 C 37.717613,115.365952 -47.892067,-10.214710 -34.568401,-80.611488"
+              class="id_Bulfinch id_Squelch" stroke-opacity="1.0"
+              stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 108.114388,128.689621 C 38.870369,138.046753 -79.031326,48.216423 -88.388458,-21.027594"
+              class="id_Bulfinch id_Trainwell" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="1.5"
+              d="M 108.114388,128.689621 C 81.407227,104.918892 77.002586,29.202061 100.773315,2.494901"
+              class="id_Bulfinch id_Triedwell" stroke-opacity="1.0"
+              stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 108.114388,128.689621 C -13.429680,80.478424 -123.428970,-174.154526 -75.217766,-295.698578"
+              class="id_Bulfinch id_Vexhem" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="2.2"
+              d="M 108.114388,128.689621 C 67.268425,112.561371 30.191866,27.100035 46.320122,-13.745927"
+              class="id_Bulfinch id_Wigeon" stroke-opacity="1.0"
+              stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -161.244553,-132.531525 C -106.253242,-72.855217 -113.280724,99.146202 -172.957031,154.137512"
+              class="id_Clerk id_Constance" stroke-opacity="1.0"
+              stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -161.244553,-132.531525 C -129.835892,-185.182281 -3.746797,-217.045410 48.903950,-185.636749"
+              class="id_Clerk id_Holdup" stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -161.244553,-132.531525 C -100.467743,-171.610565 49.316010,-139.063904 88.395050,-78.287094"
+              class="id_Clerk id_Howdee" stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -161.244553,-132.531525 C -99.933258,-129.077805 -13.146908,-31.930286 -16.600632,29.381004"
+              class="id_Clerk id_Luckless" stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -161.244553,-132.531525 C -143.933884,-94.039619 -175.705719,-10.335731 -214.197632,6.974948"
+              class="id_Clerk id_Nonsense" stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -161.244553,-132.531525 C -112.191833,-104.283157 -80.985306,11.668446 -109.233673,60.721161"
+              class="id_Clerk id_Pate" stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="2.2"
+              d="M -161.244553,-132.531525 C -125.525330,-147.482758 -49.519623,-116.330727 -34.568401,-80.611488"
+              class="id_Clerk id_Squelch" stroke-opacity="1.0" stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="1.5"
+              d="M -161.244553,-132.531525 C -124.372551,-124.801956 -80.658890,-57.899601 -88.388458,-21.027594"
+              class="id_Clerk id_Trainwell" stroke-opacity="1.0"
+              stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -161.244553,-132.531525 C -81.835686,-157.929810 75.375023,-76.913956 100.773315,2.494901"
+              class="id_Clerk id_Triedwell" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -161.244553,-132.531525 C -176.672607,-182.370285 -125.056534,-280.270508 -75.217766,-295.698578"
+              class="id_Clerk id_Vexhem" stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -161.244553,-132.531525 C -95.974487,-150.287338 28.564308,-79.015984 46.320122,-13.745927"
+              class="id_Clerk id_Wigeon" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -172.957031,154.137512 C -128.471924,54.294342 88.020477,-28.742771 187.863647,15.742333"
+              class="id_Constance id_Fitchow" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -172.957031,154.137512 C -167.171539,55.382168 -10.360294,-84.072586 88.395050,-78.287094"
+              class="id_Constance id_Howdee" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -172.957031,154.137512 C -166.637054,97.914925 -72.823212,23.061026 -16.600632,29.381004"
+              class="id_Constance id_Luckless" stroke-opacity="1.0"
+              stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -172.957031,154.137512 C -210.637665,132.953125 -235.382019,44.655582 -214.197632,6.974948"
+              class="id_Constance id_Nonsense" stroke-opacity="1.0"
+              stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -172.957031,154.137512 C -178.895630,122.709564 -140.661621,66.659760 -109.233673,60.721161"
+              class="id_Constance id_Pate" stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="1.5"
+              d="M -172.957031,154.137512 C -192.229095,79.509987 -109.195923,-61.339417 -34.568401,-80.611488"
+              class="id_Constance id_Squelch" stroke-opacity="1.0"
+              stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="1.5"
+              d="M -172.957031,154.137512 C -191.076340,102.190781 -140.335190,-2.908287 -88.388458,-21.027594"
+              class="id_Constance id_Trainwell" stroke-opacity="1.0"
+              stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -172.957031,154.137512 C -148.539490,69.062927 15.698729,-21.922646 100.773315,2.494901"
+              class="id_Constance id_Triedwell" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -172.957031,154.137512 C -162.678284,76.705391 -31.111996,-24.024670 46.320122,-13.745927"
+              class="id_Constance id_Wigeon" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 187.863647,15.742333 C 232.754028,-37.662029 380.196136,-50.433010 433.600494,-5.542633"
+              class="id_Fitchow id_Flaps" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 187.863647,15.742333 C 119.795883,3.258453 36.420071,-117.568985 48.903950,-185.636749"
+              class="id_Fitchow id_Holdup" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="2.9"
+              d="M 187.863647,15.742333 C 149.164032,16.830166 89.482887,-39.587486 88.395050,-78.287094"
+              class="id_Fitchow id_Howdee" stroke-opacity="1.0" stroke="#f9dea7"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 187.863647,15.742333 C 149.698532,59.362923 27.019958,67.546127 -16.600632,29.381004"
+              class="id_Fitchow id_Luckless" stroke-opacity="1.0"
+              stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 187.863647,15.742333 C 105.697914,94.401108 -135.538849,89.140678 -214.197632,6.974948"
+              class="id_Fitchow id_Nonsense" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 187.863647,15.742333 C 137.439941,84.157562 -40.818443,111.144859 -109.233673,60.721161"
+              class="id_Fitchow id_Pate" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 187.863647,15.742333 C 124.106461,40.957981 -9.352755,-16.854309 -34.568401,-80.611488"
+              class="id_Fitchow id_Squelch" stroke-opacity="1.0"
+              stroke="#68a0b8"/>
+        <path fill="none" stroke-width="2.2"
+              d="M 187.863647,15.742333 C 167.796097,30.510914 115.541901,22.562454 100.773315,2.494901"
+              class="id_Fitchow id_Triedwell" stroke-opacity="1.0"
+              stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="2.9"
+              d="M 187.863647,15.742333 C 153.657288,38.153385 68.731178,20.460430 46.320122,-13.745927"
+              class="id_Fitchow id_Wigeon" stroke-opacity="1.0" stroke="#f9dea7"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 433.600494,-5.542633 C 350.010498,48.949566 142.887253,5.302891 88.395050,-78.287094"
+              class="id_Flaps id_Howdee" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 433.600494,-5.542633 C 354.503754,70.272781 122.135536,65.350800 46.320122,-13.745927"
+              class="id_Flaps id_Wigeon" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="2.2"
+              d="M 48.903950,-185.636749 C 78.272102,-172.065048 101.966759,-107.655251 88.395050,-78.287094"
+              class="id_Holdup id_Howdee" stroke-opacity="1.0" stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 48.903950,-185.636749 C 78.806587,-129.532272 39.503838,-0.521635 -16.600632,29.381004"
+              class="id_Holdup id_Luckless" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 48.903950,-185.636749 C 34.805969,-94.494095 -123.054977,21.072929 -214.197632,6.974948"
+              class="id_Holdup id_Nonsense" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 48.903950,-185.636749 C 66.548012,-104.737648 -28.334564,43.077103 -109.233673,60.721161"
+              class="id_Holdup id_Pate" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="2.2"
+              d="M 48.903950,-185.636749 C 53.214531,-147.937225 3.131121,-84.922073 -34.568401,-80.611488"
+              class="id_Holdup id_Squelch" stroke-opacity="1.0" stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 48.903950,-185.636749 C 54.367302,-125.256439 -28.008144,-26.490946 -88.388458,-21.027594"
+              class="id_Holdup id_Trainwell" stroke-opacity="1.0"
+              stroke="#68a0b8"/>
+        <path fill="none" stroke-width="1.5"
+              d="M 48.903950,-185.636749 C 96.904160,-158.384293 128.025772,-45.505302 100.773315,2.494901"
+              class="id_Holdup id_Triedwell" stroke-opacity="1.0"
+              stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 48.903950,-185.636749 C 2.067238,-182.824768 -72.405792,-248.861877 -75.217766,-295.698578"
+              class="id_Holdup id_Vexhem" stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="1.5"
+              d="M 48.903950,-185.636749 C 82.765350,-150.741821 81.215050,-47.607323 46.320122,-13.745927"
+              class="id_Holdup id_Wigeon" stroke-opacity="1.0" stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="1.5"
+              d="M 88.395050,-78.287094 C 88.929535,-35.754341 25.932123,28.846521 -16.600632,29.381004"
+              class="id_Howdee id_Luckless" stroke-opacity="1.0"
+              stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 88.395050,-78.287094 C 44.928925,-0.716152 -136.626678,50.441074 -214.197632,6.974948"
+              class="id_Howdee id_Nonsense" stroke-opacity="1.0"
+              stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 88.395050,-78.287094 C 76.670959,-10.959698 -41.906281,72.445251 -109.233673,60.721161"
+              class="id_Howdee id_Pate" stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="2.9"
+              d="M 88.395050,-78.287094 C 63.337482,-54.159286 -10.440589,-55.553917 -34.568401,-80.611488"
+              class="id_Howdee id_Squelch" stroke-opacity="1.0" stroke="#f9dea7"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 88.395050,-78.287094 C 64.490250,-31.478497 -41.579857,2.877209 -88.388458,-21.027594"
+              class="id_Howdee id_Trainwell" stroke-opacity="1.0"
+              stroke="#68a0b8"/>
+        <path fill="none" stroke-width="2.9"
+              d="M 88.395050,-78.287094 C 107.027100,-64.606346 114.454056,-16.137152 100.773315,2.494901"
+              class="id_Howdee id_Triedwell" stroke-opacity="1.0"
+              stroke="#f9dea7"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 88.395050,-78.287094 C 12.190189,-89.046829 -85.977493,-219.493713 -75.217766,-295.698578"
+              class="id_Howdee id_Vexhem" stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="3.6"
+              d="M 88.395050,-78.287094 C 92.888298,-56.963875 67.643341,-18.239174 46.320122,-13.745927"
+              class="id_Howdee id_Wigeon" stroke-opacity="1.0" stroke="#ed9c79"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -16.600632,29.381004 C -60.601242,64.419189 -179.159454,50.975555 -214.197632,6.974948"
+              class="id_Luckless id_Nonsense" stroke-opacity="1.0"
+              stroke="#68a0b8"/>
+        <path fill="none" stroke-width="2.2"
+              d="M -16.600632,29.381004 C -28.859211,54.175644 -84.439034,72.979736 -109.233673,60.721161"
+              class="id_Luckless id_Pate" stroke-opacity="1.0" stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="1.5"
+              d="M -16.600632,29.381004 C -42.192684,10.976059 -52.973347,-55.019436 -34.568401,-80.611488"
+              class="id_Luckless id_Squelch" stroke-opacity="1.0"
+              stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="1.5"
+              d="M -16.600632,29.381004 C -41.039917,33.656849 -84.112610,3.411693 -88.388458,-21.027594"
+              class="id_Luckless id_Trainwell" stroke-opacity="1.0"
+              stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="2.2"
+              d="M -16.600632,29.381004 C 1.496936,0.528996 71.921303,-15.602667 100.773315,2.494901"
+              class="id_Luckless id_Triedwell" stroke-opacity="1.0"
+              stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -16.600632,29.381004 C -93.339973,-23.911484 -128.510254,-218.959229 -75.217766,-295.698578"
+              class="id_Luckless id_Vexhem" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="2.9"
+              d="M -16.600632,29.381004 C -12.641867,8.171468 25.110584,-17.704693 46.320122,-13.745927"
+              class="id_Luckless id_Wigeon" stroke-opacity="1.0"
+              stroke="#f9dea7"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -214.197632,6.974948 C -182.455597,-3.268602 -119.477226,28.979128 -109.233673,60.721161"
+              class="id_Nonsense id_Pate" stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="1.5"
+              d="M -214.197632,6.974948 C -195.789078,-46.468185 -88.011536,-99.020050 -34.568401,-80.611488"
+              class="id_Nonsense id_Squelch" stroke-opacity="1.0"
+              stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -214.197632,6.974948 C -194.636307,-23.787395 -119.150803,-40.588921 -88.388458,-21.027594"
+              class="id_Nonsense id_Trainwell" stroke-opacity="1.0"
+              stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -214.197632,6.974948 C -152.099457,-56.915253 36.883118,-59.603279 100.773315,2.494901"
+              class="id_Nonsense id_Triedwell" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -214.197632,6.974948 C -246.936371,-81.355728 -163.548447,-262.959839 -75.217766,-295.698578"
+              class="id_Nonsense id_Vexhem" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -214.197632,6.974948 C -166.238266,-49.272781 -9.927607,-61.705307 46.320122,-13.745927"
+              class="id_Nonsense id_Wigeon" stroke-opacity="1.0"
+              stroke="#68a0b8"/>
+        <path fill="none" stroke-width="1.5"
+              d="M -109.233673,60.721161 C -122.567154,17.521578 -77.767990,-67.278015 -34.568401,-80.611488"
+              class="id_Pate id_Squelch" stroke-opacity="1.0" stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="1.5"
+              d="M -109.233673,60.721161 C -121.414383,40.202366 -108.907257,-8.846886 -88.388458,-21.027594"
+              class="id_Pate id_Trainwell" stroke-opacity="1.0" stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -109.233673,60.721161 C -78.877525,7.074509 47.126663,-27.861246 100.773315,2.494901"
+              class="id_Pate id_Triedwell" stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -109.233673,60.721161 C -173.714432,-17.365963 -153.304901,-231.217819 -75.217766,-295.698578"
+              class="id_Pate id_Vexhem" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="1.5"
+              d="M -109.233673,60.721161 C -93.016327,14.716982 0.315942,-29.963270 46.320122,-13.745927"
+              class="id_Pate id_Wigeon" stroke-opacity="1.0" stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="2.2"
+              d="M -34.568401,-80.611488 C -33.415634,-57.930698 -65.707672,-22.180363 -88.388458,-21.027594"
+              class="id_Squelch id_Trainwell" stroke-opacity="1.0"
+              stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="1.5"
+              d="M -34.568401,-80.611488 C 9.121222,-91.058556 90.326248,-41.194721 100.773315,2.494901"
+              class="id_Squelch id_Triedwell" stroke-opacity="1.0"
+              stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -34.568401,-80.611488 C -85.715691,-115.499031 -110.105309,-244.551285 -75.217766,-295.698578"
+              class="id_Squelch id_Vexhem" stroke-opacity="1.0" stroke="#68a0b8"/>
+        <path fill="none" stroke-width="2.2"
+              d="M -34.568401,-80.611488 C -5.017585,-83.416077 43.515530,-43.296745 46.320122,-13.745927"
+              class="id_Squelch id_Wigeon" stroke-opacity="1.0" stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="2.2"
+              d="M -88.388458,-21.027594 C -45.851604,-54.155449 67.645462,-40.041954 100.773315,2.494901"
+              class="id_Trainwell id_Triedwell" stroke-opacity="1.0"
+              stroke="#e0ecbd"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -88.388458,-21.027594 C -140.688522,-78.595932 -132.786102,-243.398514 -75.217766,-295.698578"
+              class="id_Trainwell id_Vexhem" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="1.5"
+              d="M -88.388458,-21.027594 C -59.990406,-46.512978 20.834738,-42.143978 46.320122,-13.745927"
+              class="id_Trainwell id_Wigeon" stroke-opacity="1.0"
+              stroke="#a4c6bb"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 100.773315,2.494901 C 5.936401,-21.945576 -99.658241,-200.861664 -75.217766,-295.698578"
+              class="id_Triedwell id_Vexhem" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="4.3"
+              d="M 100.773315,2.494901 C 86.634506,10.137375 53.962597,0.392878 46.320122,-13.745927"
+              class="id_Triedwell id_Wigeon" stroke-opacity="1.0"
+              stroke="#e25a4a"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -75.217766,-295.698578 C 5.480343,-263.615631 78.403076,-94.444038 46.320122,-13.745927"
+              class="id_Vexhem id_Wigeon" stroke-opacity="1.0" stroke="#2c7bb6"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#f97743" r="19.71698" cx="52.34359"
+                class="id_Anvil" cy="50.78864" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="14.622642" cx="-49.54438"
+                class="id_Beavis" cy="121.7131" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="13.207547" cx="108.11439"
+                class="id_Bulfinch" cy="128.68962" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="11.509434" cx="-161.24455"
+                class="id_Clerk" cy="-132.53152" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="10.6603775" cx="-172.95703"
+                class="id_Constance" cy="154.13751" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#28b36a" r="12.64151" cx="187.86365"
+                class="id_Fitchow" cy="15.742333" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="5.0" cx="433.6005"
+                class="id_Flaps" cy="-5.542633" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="11.792453" cx="48.90395"
+                class="id_Holdup" cy="-185.63675" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="18.018867" cx="88.39505"
+                class="id_Howdee" cy="-78.287094" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="16.037735" cx="-16.600632"
+                class="id_Luckless" cy="29.381004" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="11.792453" cx="-214.19763"
+                class="id_Nonsense" cy="6.974948" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="13.490565" cx="-109.23367"
+                class="id_Pate" cy="60.72116" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="17.452831" cx="-34.5684"
+                class="id_Squelch" cy="-80.61149" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="14.905661" cx="-88.38846"
+                class="id_Trainwell" cy="-21.027594" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="17.73585" cx="100.773315"
+                class="id_Triedwell" cy="2.494901" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="8.679245" cx="-75.217766"
+                class="id_Vexhem" cy="-295.69858" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="20.0" cx="46.32012"
+                class="id_Wigeon" cy="-13.745927" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="20" x="52.34359" y="54.375065" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Anvil">
+            Anvil
+        </text>
+        <text font-size="15" x="-49.54438" y="124.47799" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Beavis">
+            Beavis
+        </text>
+        <text font-size="13" x="108.11439" y="131.10332" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Bulfinch">
+            Bulfinch
+        </text>
+        <text font-size="12" x="-161.24455" y="-130.26541" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Clerk">
+            Clerk
+        </text>
+        <text font-size="11" x="-172.95703" y="156.21881" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Constance">
+            Constance
+        </text>
+        <text font-size="13" x="187.86365" y="18.143333" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Fitchow">
+            Fitchow
+        </text>
+        <text font-size="5" x="433.6005" y="-4.3854065" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Flaps">
+            Flaps
+        </text>
+        <text font-size="12" x="48.90395" y="-182.85208" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Holdup">
+            Holdup
+        </text>
+        <text font-size="18" x="88.39505" y="-74.96263" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Howdee">
+            Howdee
+        </text>
+        <text font-size="16" x="-16.600632" y="32.330223" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Luckless">
+            Luckless
+        </text>
+        <text font-size="12" x="-214.19763" y="9.186862" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Nonsense">
+            Nonsense
+        </text>
+        <text font-size="13" x="-109.23367" y="63.11264" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Pate">
+            Pate
+        </text>
+        <text font-size="17" x="-34.5684" y="-76.600136" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Squelch">
+            Squelch
+        </text>
+        <text font-size="15" x="-88.38846" y="-18.268194" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Trainwell">
+            Trainwell
+        </text>
+        <text font-size="18" x="100.773315" y="5.8171663" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Triedwell">
+            Triedwell
+        </text>
+        <text font-size="9" x="-75.217766" y="-294.03745" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Vexhem">
+            Vexhem
+        </text>
+        <text font-size="20" x="46.32012" y="-9.053544" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Wigeon">
+            Wigeon
+        </text>
+    </g>
+</svg>

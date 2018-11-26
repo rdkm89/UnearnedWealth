@@ -1,0 +1,659 @@
+Source,Type,Target,Weight
+1 Courtier,Undirected,1 Woman,1
+1 Courtier,Undirected,2 Courtier,1
+1 Courtier,Undirected,2 Woman,1
+1 Courtier,Undirected,3 Courtier,1
+1 Courtier,Undirected,3 Woman,1
+1 Courtier,Undirected,Ballad-Singer,1
+1 Courtier,Undirected,Barbara,1
+1 Courtier,Undirected,Byplay,1
+1 Courtier,Undirected,Car-Man,1
+1 Courtier,Undirected,Constable,1
+1 Courtier,Undirected,Diana,1
+1 Courtier,Undirected,Doctor,1
+1 Courtier,Undirected,Gentleman,1
+1 Courtier,Undirected,Joyless,1
+1 Courtier,Undirected,Letoy,1
+1 Courtier,Undirected,Maid,1
+1 Courtier,Undirected,Man-scold,1
+1 Courtier,Undirected,Martha,1
+1 Courtier,Undirected,Old Woman,1
+1 Courtier,Undirected,Peregrine,1
+1 Courtier,Undirected,Projector,1
+1 Courtier,Undirected,Quailpipe,1
+1 Courtier,Undirected,Sedanman,1
+1 Courtier,Undirected,Servingman,1
+1 Courtier,Undirected,Watch,1
+1 Courtier,Undirected,Waterman,1
+1 Woman,Undirected,2 Courtier,1
+1 Woman,Undirected,2 Woman,1
+1 Woman,Undirected,3 Courtier,1
+1 Woman,Undirected,3 Woman,1
+1 Woman,Undirected,Ballad-Singer,1
+1 Woman,Undirected,Barbara,1
+1 Woman,Undirected,Byplay,1
+1 Woman,Undirected,Car-Man,1
+1 Woman,Undirected,Constable,1
+1 Woman,Undirected,Diana,1
+1 Woman,Undirected,Doctor,1
+1 Woman,Undirected,Gentleman,1
+1 Woman,Undirected,Joyless,1
+1 Woman,Undirected,Letoy,1
+1 Woman,Undirected,Maid,1
+1 Woman,Undirected,Man-scold,1
+1 Woman,Undirected,Martha,1
+1 Woman,Undirected,Old Woman,1
+1 Woman,Undirected,Peregrine,1
+1 Woman,Undirected,Projector,1
+1 Woman,Undirected,Quailpipe,1
+1 Woman,Undirected,Sedanman,1
+1 Woman,Undirected,Servingman,1
+1 Woman,Undirected,Watch,1
+1 Woman,Undirected,Waterman,1
+2 Courtier,Undirected,2 Woman,1
+2 Courtier,Undirected,3 Courtier,1
+2 Courtier,Undirected,3 Woman,1
+2 Courtier,Undirected,Ballad-Singer,1
+2 Courtier,Undirected,Barbara,1
+2 Courtier,Undirected,Byplay,1
+2 Courtier,Undirected,Car-Man,1
+2 Courtier,Undirected,Constable,1
+2 Courtier,Undirected,Diana,1
+2 Courtier,Undirected,Doctor,1
+2 Courtier,Undirected,Gentleman,1
+2 Courtier,Undirected,Joyless,1
+2 Courtier,Undirected,Letoy,1
+2 Courtier,Undirected,Maid,1
+2 Courtier,Undirected,Man-scold,1
+2 Courtier,Undirected,Martha,1
+2 Courtier,Undirected,Old Woman,1
+2 Courtier,Undirected,Peregrine,1
+2 Courtier,Undirected,Projector,1
+2 Courtier,Undirected,Quailpipe,1
+2 Courtier,Undirected,Sedanman,1
+2 Courtier,Undirected,Servingman,1
+2 Courtier,Undirected,Watch,1
+2 Courtier,Undirected,Waterman,1
+2 Woman,Undirected,3 Courtier,1
+2 Woman,Undirected,3 Woman,1
+2 Woman,Undirected,Ballad-Singer,1
+2 Woman,Undirected,Barbara,1
+2 Woman,Undirected,Byplay,1
+2 Woman,Undirected,Car-Man,1
+2 Woman,Undirected,Constable,1
+2 Woman,Undirected,Diana,1
+2 Woman,Undirected,Doctor,1
+2 Woman,Undirected,Gentleman,1
+2 Woman,Undirected,Joyless,1
+2 Woman,Undirected,Letoy,1
+2 Woman,Undirected,Maid,1
+2 Woman,Undirected,Man-scold,1
+2 Woman,Undirected,Martha,1
+2 Woman,Undirected,Old Woman,1
+2 Woman,Undirected,Peregrine,1
+2 Woman,Undirected,Projector,1
+2 Woman,Undirected,Quailpipe,1
+2 Woman,Undirected,Sedanman,1
+2 Woman,Undirected,Servingman,1
+2 Woman,Undirected,Watch,1
+2 Woman,Undirected,Waterman,1
+3 Courtier,Undirected,3 Woman,1
+3 Courtier,Undirected,Ballad-Singer,1
+3 Courtier,Undirected,Barbara,1
+3 Courtier,Undirected,Byplay,1
+3 Courtier,Undirected,Car-Man,1
+3 Courtier,Undirected,Constable,1
+3 Courtier,Undirected,Diana,1
+3 Courtier,Undirected,Doctor,1
+3 Courtier,Undirected,Gentleman,1
+3 Courtier,Undirected,Joyless,1
+3 Courtier,Undirected,Letoy,1
+3 Courtier,Undirected,Maid,1
+3 Courtier,Undirected,Man-scold,1
+3 Courtier,Undirected,Martha,1
+3 Courtier,Undirected,Old Woman,1
+3 Courtier,Undirected,Peregrine,1
+3 Courtier,Undirected,Projector,1
+3 Courtier,Undirected,Quailpipe,1
+3 Courtier,Undirected,Sedanman,1
+3 Courtier,Undirected,Servingman,1
+3 Courtier,Undirected,Watch,1
+3 Courtier,Undirected,Waterman,1
+3 Woman,Undirected,Ballad-Singer,1
+3 Woman,Undirected,Barbara,1
+3 Woman,Undirected,Byplay,1
+3 Woman,Undirected,Car-Man,1
+3 Woman,Undirected,Constable,1
+3 Woman,Undirected,Diana,1
+3 Woman,Undirected,Doctor,1
+3 Woman,Undirected,Gentleman,1
+3 Woman,Undirected,Joyless,1
+3 Woman,Undirected,Letoy,1
+3 Woman,Undirected,Maid,1
+3 Woman,Undirected,Man-scold,1
+3 Woman,Undirected,Martha,1
+3 Woman,Undirected,Old Woman,1
+3 Woman,Undirected,Peregrine,1
+3 Woman,Undirected,Projector,1
+3 Woman,Undirected,Quailpipe,1
+3 Woman,Undirected,Sedanman,1
+3 Woman,Undirected,Servingman,1
+3 Woman,Undirected,Watch,1
+3 Woman,Undirected,Waterman,1
+Actor1,Undirected,Actor2,1
+Actor1,Undirected,Actor3,1
+Actor1,Undirected,Actor4,1
+Actor1,Undirected,Barbara,1
+Actor1,Undirected,Blaze,1
+Actor1,Undirected,Byplay,1
+Actor1,Undirected,Diana,1
+Actor1,Undirected,Doctor,1
+Actor1,Undirected,Joyless,1
+Actor1,Undirected,Letoy,1
+Actor1,Undirected,Martha,1
+Actor1,Undirected,Quailpipe,1
+Actor2,Undirected,Actor3,1
+Actor2,Undirected,Actor4,1
+Actor2,Undirected,Barbara,1
+Actor2,Undirected,Blaze,1
+Actor2,Undirected,Byplay,1
+Actor2,Undirected,Diana,1
+Actor2,Undirected,Doctor,1
+Actor2,Undirected,Joyless,1
+Actor2,Undirected,Letoy,1
+Actor2,Undirected,Martha,1
+Actor2,Undirected,Quailpipe,1
+Actor3,Undirected,Actor4,1
+Actor3,Undirected,Barbara,1
+Actor3,Undirected,Blaze,1
+Actor3,Undirected,Byplay,1
+Actor3,Undirected,Diana,1
+Actor3,Undirected,Doctor,1
+Actor3,Undirected,Joyless,1
+Actor3,Undirected,Letoy,1
+Actor3,Undirected,Martha,1
+Actor3,Undirected,Quailpipe,1
+Actor4,Undirected,Barbara,1
+Actor4,Undirected,Blaze,1
+Actor4,Undirected,Byplay,1
+Actor4,Undirected,Diana,1
+Actor4,Undirected,Doctor,1
+Actor4,Undirected,Joyless,1
+Actor4,Undirected,Letoy,1
+Actor4,Undirected,Martha,1
+Actor4,Undirected,Quailpipe,1
+Ballad-Singer,Undirected,Barbara,1
+Ballad-Singer,Undirected,Byplay,1
+Ballad-Singer,Undirected,Car-Man,1
+Ballad-Singer,Undirected,Constable,1
+Ballad-Singer,Undirected,Diana,1
+Ballad-Singer,Undirected,Doctor,1
+Ballad-Singer,Undirected,Gentleman,1
+Ballad-Singer,Undirected,Joyless,1
+Ballad-Singer,Undirected,Letoy,1
+Ballad-Singer,Undirected,Maid,1
+Ballad-Singer,Undirected,Man-scold,1
+Ballad-Singer,Undirected,Martha,1
+Ballad-Singer,Undirected,Old Woman,1
+Ballad-Singer,Undirected,Peregrine,1
+Ballad-Singer,Undirected,Projector,1
+Ballad-Singer,Undirected,Quailpipe,1
+Ballad-Singer,Undirected,Sedanman,1
+Ballad-Singer,Undirected,Servingman,1
+Ballad-Singer,Undirected,Watch,1
+Ballad-Singer,Undirected,Waterman,1
+Barbara,Undirected,Beggar,1
+Barbara,Undirected,Blaze,3
+Barbara,Undirected,Buff Woman,1
+Barbara,Undirected,Byplay,6
+Barbara,Undirected,Captain,1
+Barbara,Undirected,Car-Man,1
+Barbara,Undirected,Citizen,1
+Barbara,Undirected,Constable,1
+Barbara,Undirected,Diana,5
+Barbara,Undirected,Discord,1
+Barbara,Undirected,Doctor,6
+Barbara,Undirected,Gallant,1
+Barbara,Undirected,Gentleman,3
+Barbara,Undirected,Harmony,1
+Barbara,Undirected,Joyless,7
+Barbara,Undirected,Lawyer,1
+Barbara,Undirected,Letoy,5
+Barbara,Undirected,Maid,1
+Barbara,Undirected,Man-scold,1
+Barbara,Undirected,Martha,6
+Barbara,Undirected,Officer,1
+Barbara,Undirected,Old Man1,1
+Barbara,Undirected,Old Man2,1
+Barbara,Undirected,Old Man3,1
+Barbara,Undirected,Old Woman,1
+Barbara,Undirected,Old lady,1
+Barbara,Undirected,Peregrine,4
+Barbara,Undirected,Poet,1
+Barbara,Undirected,Projector,1
+Barbara,Undirected,Quailpipe,4
+Barbara,Undirected,Sedanman,1
+Barbara,Undirected,Sergeant1,1
+Barbara,Undirected,Sergeant2,1
+Barbara,Undirected,Servingman,1
+Barbara,Undirected,Sword-bearer,1
+Barbara,Undirected,Truelock,1
+Barbara,Undirected,Waiting Woman,1
+Barbara,Undirected,Watch,1
+Barbara,Undirected,Waterman,1
+Barbara,Undirected,Within,1
+Beggar,Undirected,Buff Woman,1
+Beggar,Undirected,Byplay,1
+Beggar,Undirected,Captain,1
+Beggar,Undirected,Citizen,1
+Beggar,Undirected,Diana,1
+Beggar,Undirected,Doctor,1
+Beggar,Undirected,Gallant,1
+Beggar,Undirected,Gentleman,1
+Beggar,Undirected,Joyless,1
+Beggar,Undirected,Lawyer,1
+Beggar,Undirected,Letoy,1
+Beggar,Undirected,Martha,1
+Beggar,Undirected,Officer,1
+Beggar,Undirected,Peregrine,1
+Beggar,Undirected,Poet,1
+Beggar,Undirected,Sword-bearer,1
+Beggar,Undirected,Within,1
+Blaze,Undirected,Byplay,2
+Blaze,Undirected,Diana,2
+Blaze,Undirected,Doctor,3
+Blaze,Undirected,Joyless,4
+Blaze,Undirected,Letoy,2
+Blaze,Undirected,Martha,2
+Blaze,Undirected,Peregrine,1
+Blaze,Undirected,Quailpipe,2
+Buff Woman,Undirected,Byplay,1
+Buff Woman,Undirected,Captain,1
+Buff Woman,Undirected,Citizen,1
+Buff Woman,Undirected,Diana,1
+Buff Woman,Undirected,Doctor,1
+Buff Woman,Undirected,Gallant,1
+Buff Woman,Undirected,Gentleman,1
+Buff Woman,Undirected,Joyless,1
+Buff Woman,Undirected,Lawyer,1
+Buff Woman,Undirected,Letoy,1
+Buff Woman,Undirected,Martha,1
+Buff Woman,Undirected,Officer,1
+Buff Woman,Undirected,Peregrine,1
+Buff Woman,Undirected,Poet,1
+Buff Woman,Undirected,Sword-bearer,1
+Buff Woman,Undirected,Within,1
+Byplay,Undirected,Captain,1
+Byplay,Undirected,Car-Man,1
+Byplay,Undirected,Citizen,1
+Byplay,Undirected,Constable,1
+Byplay,Undirected,Diana,5
+Byplay,Undirected,Discord,1
+Byplay,Undirected,Doctor,5
+Byplay,Undirected,Gallant,1
+Byplay,Undirected,Gentleman,3
+Byplay,Undirected,Harmony,1
+Byplay,Undirected,Joyless,6
+Byplay,Undirected,Lawyer,1
+Byplay,Undirected,Letoy,5
+Byplay,Undirected,Maid,1
+Byplay,Undirected,Man-scold,1
+Byplay,Undirected,Martha,5
+Byplay,Undirected,Officer,1
+Byplay,Undirected,Old Man1,1
+Byplay,Undirected,Old Man2,1
+Byplay,Undirected,Old Man3,1
+Byplay,Undirected,Old Woman,1
+Byplay,Undirected,Old lady,1
+Byplay,Undirected,Peregrine,4
+Byplay,Undirected,Poet,1
+Byplay,Undirected,Projector,1
+Byplay,Undirected,Quailpipe,4
+Byplay,Undirected,Sedanman,1
+Byplay,Undirected,Sergeant1,1
+Byplay,Undirected,Sergeant2,1
+Byplay,Undirected,Servingman,1
+Byplay,Undirected,Sword-bearer,1
+Byplay,Undirected,Truelock,1
+Byplay,Undirected,Waiting Woman,1
+Byplay,Undirected,Watch,1
+Byplay,Undirected,Waterman,1
+Byplay,Undirected,Within,1
+Captain,Undirected,Citizen,1
+Captain,Undirected,Diana,1
+Captain,Undirected,Doctor,1
+Captain,Undirected,Gallant,1
+Captain,Undirected,Gentleman,1
+Captain,Undirected,Joyless,1
+Captain,Undirected,Lawyer,1
+Captain,Undirected,Letoy,1
+Captain,Undirected,Martha,1
+Captain,Undirected,Officer,1
+Captain,Undirected,Peregrine,1
+Captain,Undirected,Poet,1
+Captain,Undirected,Sword-bearer,1
+Captain,Undirected,Within,1
+Car-Man,Undirected,Constable,1
+Car-Man,Undirected,Diana,1
+Car-Man,Undirected,Doctor,1
+Car-Man,Undirected,Gentleman,1
+Car-Man,Undirected,Joyless,1
+Car-Man,Undirected,Letoy,1
+Car-Man,Undirected,Maid,1
+Car-Man,Undirected,Man-scold,1
+Car-Man,Undirected,Martha,1
+Car-Man,Undirected,Old Woman,1
+Car-Man,Undirected,Peregrine,1
+Car-Man,Undirected,Projector,1
+Car-Man,Undirected,Quailpipe,1
+Car-Man,Undirected,Sedanman,1
+Car-Man,Undirected,Servingman,1
+Car-Man,Undirected,Watch,1
+Car-Man,Undirected,Waterman,1
+Citizen,Undirected,Diana,1
+Citizen,Undirected,Doctor,1
+Citizen,Undirected,Gallant,1
+Citizen,Undirected,Gentleman,1
+Citizen,Undirected,Joyless,1
+Citizen,Undirected,Lawyer,1
+Citizen,Undirected,Letoy,1
+Citizen,Undirected,Martha,1
+Citizen,Undirected,Officer,1
+Citizen,Undirected,Peregrine,1
+Citizen,Undirected,Poet,1
+Citizen,Undirected,Sword-bearer,1
+Citizen,Undirected,Within,1
+Constable,Undirected,Diana,1
+Constable,Undirected,Doctor,1
+Constable,Undirected,Gentleman,1
+Constable,Undirected,Joyless,1
+Constable,Undirected,Letoy,1
+Constable,Undirected,Maid,1
+Constable,Undirected,Man-scold,1
+Constable,Undirected,Martha,1
+Constable,Undirected,Old Woman,1
+Constable,Undirected,Peregrine,1
+Constable,Undirected,Projector,1
+Constable,Undirected,Quailpipe,1
+Constable,Undirected,Sedanman,1
+Constable,Undirected,Servingman,1
+Constable,Undirected,Watch,1
+Constable,Undirected,Waterman,1
+Diana,Undirected,Discord,1
+Diana,Undirected,Doctor,6
+Diana,Undirected,Gallant,1
+Diana,Undirected,Gentleman,3
+Diana,Undirected,Harmony,1
+Diana,Undirected,Joyless,6
+Diana,Undirected,Lawyer,1
+Diana,Undirected,Letoy,5
+Diana,Undirected,Maid,1
+Diana,Undirected,Man-scold,1
+Diana,Undirected,Martha,5
+Diana,Undirected,Officer,1
+Diana,Undirected,Old Man1,1
+Diana,Undirected,Old Man2,1
+Diana,Undirected,Old Man3,1
+Diana,Undirected,Old Woman,1
+Diana,Undirected,Old lady,1
+Diana,Undirected,Peregrine,5
+Diana,Undirected,Poet,1
+Diana,Undirected,Projector,1
+Diana,Undirected,Quailpipe,4
+Diana,Undirected,Sedanman,1
+Diana,Undirected,Sergeant1,1
+Diana,Undirected,Sergeant2,1
+Diana,Undirected,Servingman,1
+Diana,Undirected,Sword-bearer,1
+Diana,Undirected,Truelock,1
+Diana,Undirected,Waiting Woman,1
+Diana,Undirected,Watch,1
+Diana,Undirected,Waterman,1
+Diana,Undirected,Within,1
+Discord,Undirected,Doctor,1
+Discord,Undirected,Harmony,1
+Discord,Undirected,Joyless,1
+Discord,Undirected,Letoy,1
+Discord,Undirected,Martha,1
+Discord,Undirected,Peregrine,1
+Discord,Undirected,Quailpipe,1
+Discord,Undirected,Truelock,1
+Doctor,Undirected,Gallant,1
+Doctor,Undirected,Gentleman,3
+Doctor,Undirected,Harmony,1
+Doctor,Undirected,Joyless,7
+Doctor,Undirected,Lawyer,1
+Doctor,Undirected,Letoy,5
+Doctor,Undirected,Maid,1
+Doctor,Undirected,Man-scold,1
+Doctor,Undirected,Martha,6
+Doctor,Undirected,Officer,1
+Doctor,Undirected,Old Man1,1
+Doctor,Undirected,Old Man2,1
+Doctor,Undirected,Old Man3,1
+Doctor,Undirected,Old Woman,1
+Doctor,Undirected,Old lady,1
+Doctor,Undirected,Peregrine,6
+Doctor,Undirected,Poet,1
+Doctor,Undirected,Projector,1
+Doctor,Undirected,Quailpipe,4
+Doctor,Undirected,Sedanman,1
+Doctor,Undirected,Sergeant1,1
+Doctor,Undirected,Sergeant2,1
+Doctor,Undirected,Servingman,1
+Doctor,Undirected,Sword-bearer,1
+Doctor,Undirected,Truelock,1
+Doctor,Undirected,Waiting Woman,1
+Doctor,Undirected,Watch,1
+Doctor,Undirected,Waterman,1
+Doctor,Undirected,Within,1
+Gallant,Undirected,Gentleman,1
+Gallant,Undirected,Joyless,1
+Gallant,Undirected,Lawyer,1
+Gallant,Undirected,Letoy,1
+Gallant,Undirected,Martha,1
+Gallant,Undirected,Officer,1
+Gallant,Undirected,Peregrine,1
+Gallant,Undirected,Poet,1
+Gallant,Undirected,Sword-bearer,1
+Gallant,Undirected,Within,1
+Gentleman,Undirected,Joyless,3
+Gentleman,Undirected,Lawyer,1
+Gentleman,Undirected,Letoy,3
+Gentleman,Undirected,Maid,1
+Gentleman,Undirected,Man-scold,1
+Gentleman,Undirected,Martha,3
+Gentleman,Undirected,Officer,1
+Gentleman,Undirected,Old Man1,1
+Gentleman,Undirected,Old Man2,1
+Gentleman,Undirected,Old Man3,1
+Gentleman,Undirected,Old Woman,1
+Gentleman,Undirected,Old lady,1
+Gentleman,Undirected,Peregrine,3
+Gentleman,Undirected,Poet,1
+Gentleman,Undirected,Projector,1
+Gentleman,Undirected,Quailpipe,2
+Gentleman,Undirected,Sedanman,1
+Gentleman,Undirected,Sergeant1,1
+Gentleman,Undirected,Sergeant2,1
+Gentleman,Undirected,Servingman,1
+Gentleman,Undirected,Sword-bearer,1
+Gentleman,Undirected,Waiting Woman,1
+Gentleman,Undirected,Watch,1
+Gentleman,Undirected,Waterman,1
+Gentleman,Undirected,Within,1
+Harmony,Undirected,Joyless,1
+Harmony,Undirected,Letoy,1
+Harmony,Undirected,Martha,1
+Harmony,Undirected,Peregrine,1
+Harmony,Undirected,Quailpipe,1
+Harmony,Undirected,Truelock,1
+Joyless,Undirected,Lawyer,1
+Joyless,Undirected,Letoy,5
+Joyless,Undirected,Maid,1
+Joyless,Undirected,Man-scold,1
+Joyless,Undirected,Martha,6
+Joyless,Undirected,Officer,1
+Joyless,Undirected,Old Man1,1
+Joyless,Undirected,Old Man2,1
+Joyless,Undirected,Old Man3,1
+Joyless,Undirected,Old Woman,1
+Joyless,Undirected,Old lady,1
+Joyless,Undirected,Peregrine,5
+Joyless,Undirected,Poet,1
+Joyless,Undirected,Projector,1
+Joyless,Undirected,Quailpipe,4
+Joyless,Undirected,Sedanman,1
+Joyless,Undirected,Sergeant1,1
+Joyless,Undirected,Sergeant2,1
+Joyless,Undirected,Servingman,1
+Joyless,Undirected,Sword-bearer,1
+Joyless,Undirected,Truelock,1
+Joyless,Undirected,Waiting Woman,1
+Joyless,Undirected,Watch,1
+Joyless,Undirected,Waterman,1
+Joyless,Undirected,Within,1
+Lawyer,Undirected,Letoy,1
+Lawyer,Undirected,Martha,1
+Lawyer,Undirected,Officer,1
+Lawyer,Undirected,Peregrine,1
+Lawyer,Undirected,Poet,1
+Lawyer,Undirected,Sword-bearer,1
+Lawyer,Undirected,Within,1
+Letoy,Undirected,Maid,1
+Letoy,Undirected,Man-scold,1
+Letoy,Undirected,Martha,5
+Letoy,Undirected,Officer,1
+Letoy,Undirected,Old Man1,1
+Letoy,Undirected,Old Man2,1
+Letoy,Undirected,Old Man3,1
+Letoy,Undirected,Old Woman,1
+Letoy,Undirected,Old lady,1
+Letoy,Undirected,Peregrine,4
+Letoy,Undirected,Poet,1
+Letoy,Undirected,Projector,1
+Letoy,Undirected,Quailpipe,5
+Letoy,Undirected,Sedanman,1
+Letoy,Undirected,Sergeant1,1
+Letoy,Undirected,Sergeant2,1
+Letoy,Undirected,Servingman,1
+Letoy,Undirected,Sword-bearer,1
+Letoy,Undirected,Truelock,1
+Letoy,Undirected,Waiting Woman,1
+Letoy,Undirected,Watch,1
+Letoy,Undirected,Waterman,1
+Letoy,Undirected,Within,1
+Maid,Undirected,Man-scold,1
+Maid,Undirected,Martha,1
+Maid,Undirected,Old Woman,1
+Maid,Undirected,Peregrine,1
+Maid,Undirected,Projector,1
+Maid,Undirected,Quailpipe,1
+Maid,Undirected,Sedanman,1
+Maid,Undirected,Servingman,1
+Maid,Undirected,Watch,1
+Maid,Undirected,Waterman,1
+Man-scold,Undirected,Martha,1
+Man-scold,Undirected,Old Woman,1
+Man-scold,Undirected,Peregrine,1
+Man-scold,Undirected,Projector,1
+Man-scold,Undirected,Quailpipe,1
+Man-scold,Undirected,Sedanman,1
+Man-scold,Undirected,Servingman,1
+Man-scold,Undirected,Watch,1
+Man-scold,Undirected,Waterman,1
+Martha,Undirected,Officer,1
+Martha,Undirected,Old Man1,1
+Martha,Undirected,Old Man2,1
+Martha,Undirected,Old Man3,1
+Martha,Undirected,Old Woman,1
+Martha,Undirected,Old lady,1
+Martha,Undirected,Peregrine,4
+Martha,Undirected,Poet,1
+Martha,Undirected,Projector,1
+Martha,Undirected,Quailpipe,4
+Martha,Undirected,Sedanman,1
+Martha,Undirected,Sergeant1,1
+Martha,Undirected,Sergeant2,1
+Martha,Undirected,Servingman,1
+Martha,Undirected,Sword-bearer,1
+Martha,Undirected,Truelock,1
+Martha,Undirected,Waiting Woman,1
+Martha,Undirected,Watch,1
+Martha,Undirected,Waterman,1
+Martha,Undirected,Within,1
+Officer,Undirected,Peregrine,1
+Officer,Undirected,Poet,1
+Officer,Undirected,Sword-bearer,1
+Officer,Undirected,Within,1
+Old Man1,Undirected,Old Man2,1
+Old Man1,Undirected,Old Man3,1
+Old Man1,Undirected,Old lady,1
+Old Man1,Undirected,Peregrine,1
+Old Man1,Undirected,Quailpipe,1
+Old Man1,Undirected,Sergeant1,1
+Old Man1,Undirected,Sergeant2,1
+Old Man1,Undirected,Waiting Woman,1
+Old Man2,Undirected,Old Man3,1
+Old Man2,Undirected,Old lady,1
+Old Man2,Undirected,Peregrine,1
+Old Man2,Undirected,Quailpipe,1
+Old Man2,Undirected,Sergeant1,1
+Old Man2,Undirected,Sergeant2,1
+Old Man2,Undirected,Waiting Woman,1
+Old Man3,Undirected,Old lady,1
+Old Man3,Undirected,Peregrine,1
+Old Man3,Undirected,Quailpipe,1
+Old Man3,Undirected,Sergeant1,1
+Old Man3,Undirected,Sergeant2,1
+Old Man3,Undirected,Waiting Woman,1
+Old Woman,Undirected,Peregrine,1
+Old Woman,Undirected,Projector,1
+Old Woman,Undirected,Quailpipe,1
+Old Woman,Undirected,Sedanman,1
+Old Woman,Undirected,Servingman,1
+Old Woman,Undirected,Watch,1
+Old Woman,Undirected,Waterman,1
+Old lady,Undirected,Peregrine,1
+Old lady,Undirected,Quailpipe,1
+Old lady,Undirected,Sergeant1,1
+Old lady,Undirected,Sergeant2,1
+Old lady,Undirected,Waiting Woman,1
+Peregrine,Undirected,Poet,1
+Peregrine,Undirected,Projector,1
+Peregrine,Undirected,Quailpipe,3
+Peregrine,Undirected,Sedanman,1
+Peregrine,Undirected,Sergeant1,1
+Peregrine,Undirected,Sergeant2,1
+Peregrine,Undirected,Servingman,1
+Peregrine,Undirected,Sword-bearer,1
+Peregrine,Undirected,Truelock,1
+Peregrine,Undirected,Waiting Woman,1
+Peregrine,Undirected,Watch,1
+Peregrine,Undirected,Waterman,1
+Peregrine,Undirected,Within,1
+Poet,Undirected,Sword-bearer,1
+Poet,Undirected,Within,1
+Projector,Undirected,Quailpipe,1
+Projector,Undirected,Sedanman,1
+Projector,Undirected,Servingman,1
+Projector,Undirected,Watch,1
+Projector,Undirected,Waterman,1
+Quailpipe,Undirected,Sedanman,1
+Quailpipe,Undirected,Sergeant1,1
+Quailpipe,Undirected,Sergeant2,1
+Quailpipe,Undirected,Servingman,1
+Quailpipe,Undirected,Truelock,1
+Quailpipe,Undirected,Waiting Woman,1
+Quailpipe,Undirected,Watch,1
+Quailpipe,Undirected,Waterman,1
+Sedanman,Undirected,Servingman,1
+Sedanman,Undirected,Watch,1
+Sedanman,Undirected,Waterman,1
+Sergeant1,Undirected,Sergeant2,1
+Sergeant1,Undirected,Waiting Woman,1
+Sergeant2,Undirected,Waiting Woman,1
+Servingman,Undirected,Watch,1
+Servingman,Undirected,Waterman,1
+Sword-bearer,Undirected,Within,1
+Watch,Undirected,Waterman,1

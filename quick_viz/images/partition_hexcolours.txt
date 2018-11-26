@@ -1,0 +1,6 @@
+partition_colours:
+
+L #9a96e5
+M #28b36a
+G #f97743
+U #C0C0C0

@@ -1,0 +1,100 @@
+Source,Type,Target,Weight
+Bridget,Undirected,Crack,3
+Bridget,Undirected,Crasy,5
+Bridget,Undirected,Jeremy,2
+Bridget,Undirected,Josina,4
+Bridget,Undirected,Lady Ticket,1
+Bridget,Undirected,Linsy-Wolsey,1
+Bridget,Undirected,Pyannet,4
+Bridget,Undirected,Rufflit,3
+Bridget,Undirected,Sarpego,4
+Bridget,Undirected,Sneakup,3
+Bridget,Undirected,Ticket,3
+Bridget,Undirected,Toby,2
+Crack,Undirected,Crasy,5
+Crack,Undirected,Isabel,1
+Crack,Undirected,Jeremy,3
+Crack,Undirected,Joan,1
+Crack,Undirected,Josina,4
+Crack,Undirected,Linsy-Wolsey,5
+Crack,Undirected,Pyannet,3
+Crack,Undirected,Rufflit,4
+Crack,Undirected,Sarpego,3
+Crack,Undirected,Servant within,1
+Crack,Undirected,Sneakup,1
+Crack,Undirected,Ticket,4
+Crack,Undirected,Toby,3
+Crasy,Undirected,Isabel,1
+Crasy,Undirected,Jeremy,5
+Crasy,Undirected,Joan,1
+Crasy,Undirected,Josina,6
+Crasy,Undirected,Lady Ticket,1
+Crasy,Undirected,Linsy-Wolsey,4
+Crasy,Undirected,Pyannet,5
+Crasy,Undirected,Rufflit,6
+Crasy,Undirected,Sarpego,8
+Crasy,Undirected,Sneakup,4
+Crasy,Undirected,Ticket,6
+Crasy,Undirected,Toby,6
+Isabel,Undirected,Jeremy,1
+Isabel,Undirected,Joan,1
+Isabel,Undirected,Josina,1
+Isabel,Undirected,Linsy-Wolsey,1
+Isabel,Undirected,Pyannet,1
+Isabel,Undirected,Rufflit,1
+Isabel,Undirected,Sarpego,1
+Isabel,Undirected,Ticket,1
+Isabel,Undirected,Toby,1
+Jeremy,Undirected,Joan,1
+Jeremy,Undirected,Josina,3
+Jeremy,Undirected,Lady Ticket,1
+Jeremy,Undirected,Linsy-Wolsey,4
+Jeremy,Undirected,Pyannet,3
+Jeremy,Undirected,Rufflit,4
+Jeremy,Undirected,Sarpego,4
+Jeremy,Undirected,Sneakup,2
+Jeremy,Undirected,Ticket,4
+Jeremy,Undirected,Toby,4
+Joan,Undirected,Josina,1
+Joan,Undirected,Linsy-Wolsey,1
+Joan,Undirected,Pyannet,1
+Joan,Undirected,Rufflit,1
+Joan,Undirected,Sarpego,1
+Joan,Undirected,Ticket,1
+Joan,Undirected,Toby,1
+Josina,Undirected,Lady Ticket,1
+Josina,Undirected,Linsy-Wolsey,2
+Josina,Undirected,Pyannet,4
+Josina,Undirected,Rufflit,4
+Josina,Undirected,Sarpego,4
+Josina,Undirected,Sneakup,2
+Josina,Undirected,Ticket,4
+Josina,Undirected,Toby,3
+Lady Ticket,Undirected,Pyannet,2
+Lady Ticket,Undirected,Rufflit,1
+Lady Ticket,Undirected,Sarpego,2
+Lady Ticket,Undirected,Sneakup,2
+Lady Ticket,Undirected,Ticket,1
+Lady Ticket,Undirected,Toby,2
+Linsy-Wolsey,Undirected,Pyannet,2
+Linsy-Wolsey,Undirected,Rufflit,4
+Linsy-Wolsey,Undirected,Sarpego,3
+Linsy-Wolsey,Undirected,Servant within,1
+Linsy-Wolsey,Undirected,Sneakup,1
+Linsy-Wolsey,Undirected,Ticket,4
+Linsy-Wolsey,Undirected,Toby,4
+Pyannet,Undirected,Rufflit,4
+Pyannet,Undirected,Sarpego,6
+Pyannet,Undirected,Sneakup,4
+Pyannet,Undirected,Ticket,4
+Pyannet,Undirected,Toby,4
+Rufflit,Undirected,Sarpego,6
+Rufflit,Undirected,Sneakup,3
+Rufflit,Undirected,Ticket,7
+Rufflit,Undirected,Toby,6
+Sarpego,Undirected,Sneakup,5
+Sarpego,Undirected,Ticket,6
+Sarpego,Undirected,Toby,7
+Sneakup,Undirected,Ticket,3
+Sneakup,Undirected,Toby,4
+Ticket,Undirected,Toby,6

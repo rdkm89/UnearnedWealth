@@ -1,0 +1,904 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="730.42804"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-394.000000 -362.000000 730.428040 900.937744" height="900.93774"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="0.1"
+              d="M 148.696884,10.761243 C 20.624825,38.682316 -213.364868,-111.544144 -241.285934,-239.616211"
+              class="id_Disanius id_Doris" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.68"
+              d="M 148.696884,10.761243 C 75.234306,17.186924 -44.598080,-83.368401 -51.023762,-156.830978"
+              class="id_Disanius id_Eudina" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="1.84"
+              d="M 148.696884,10.761243 C 196.103958,12.803783 264.150757,86.978195 262.108215,134.385269"
+              class="id_Disanius id_Eupathus" stroke-opacity="1.0"
+              stroke="#f7d09e"/>
+        <path fill="none" stroke-width="1.26"
+              d="M 148.696884,10.761243 C 131.769318,-42.475624 186.233261,-147.722275 239.470123,-164.649841"
+              class="id_Disanius id_Garrula" stroke-opacity="1.0"
+              stroke="#d4e4bd"/>
+        <path fill="none" stroke-width="0.68"
+              d="M 148.696884,10.761243 C 107.164291,82.188736 -62.275818,127.031067 -133.703308,85.498474"
+              class="id_Disanius id_Geron" stroke-opacity="1.0" stroke="#80afb9"/>
+        <path fill="none" stroke-width="2.42"
+              d="M 148.696884,10.761243 C 167.598450,-11.375282 229.155609,-16.227711 251.292130,2.673860"
+              class="id_Disanius id_Justinius" stroke-opacity="1.0"
+              stroke="#e7745d"/>
+        <path fill="none" stroke-width="1.84"
+              d="M 148.696884,10.761243 C 143.058273,37.393776 94.651566,68.884651 68.019028,63.246040"
+              class="id_Disanius id_King" stroke-opacity="1.0" stroke="#f7d09e"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 148.696884,10.761243 C 28.457008,-13.675751 -115.247299,-230.691055 -90.810303,-350.930939"
+              class="id_Disanius id_Matho" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="1.26"
+              d="M 148.696884,10.761243 C 85.512619,44.689705 -60.156445,0.806011 -94.084908,-62.378250"
+              class="id_Disanius id_Philargus" stroke-opacity="1.0"
+              stroke="#d4e4bd"/>
+        <path fill="none" stroke-width="1.26"
+              d="M 148.696884,10.761243 C 107.154190,34.250740 9.605888,7.170944 -13.883610,-34.371754"
+              class="id_Disanius id_Philocles" stroke-opacity="1.0"
+              stroke="#d4e4bd"/>
+        <path fill="none" stroke-width="0.68"
+              d="M 148.696884,10.761243 C 72.730530,-20.645437 5.891003,-181.704987 37.297680,-257.671356"
+              class="id_Disanius id_Placilla" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M 148.696884,10.761243 C 194.150024,108.564026 115.625565,323.447876 17.822786,368.901001"
+              class="id_Disanius id_Rustic_1" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M 148.696884,10.761243 C 162.724365,92.489632 61.172997,236.123444 -20.555391,250.150909"
+              class="id_Disanius id_Rustic_2" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M 148.696884,10.761243 C 152.882477,125.145302 -12.415234,302.999786 -126.799294,307.185364"
+              class="id_Disanius id_Rustic_3" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M 148.696884,10.761243 C 228.727234,72.701599 255.862274,285.657654 193.921906,365.688019"
+              class="id_Disanius id_Rustic_4" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="1.26"
+              d="M 148.696884,10.761243 C 184.653656,55.874107 170.919495,177.478531 125.806618,213.435303"
+              class="id_Disanius id_Stratocles" stroke-opacity="1.0"
+              stroke="#d4e4bd"/>
+        <path fill="none" stroke-width="0.68"
+              d="M 148.696884,10.761243 C 41.211823,69.423645 -208.009384,-3.810333 -266.671783,-111.295395"
+              class="id_Disanius id_Tersulus" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="1.26"
+              d="M 148.696884,10.761243 C 104.017487,-6.206391 62.449818,-98.676949 79.417450,-143.356354"
+              class="id_Disanius id_Thymele" stroke-opacity="1.0"
+              stroke="#d4e4bd"/>
+        <path fill="none" stroke-width="0.68"
+              d="M 148.696884,10.761243 C 59.812588,94.951027 -199.798553,87.909264 -283.988342,-0.975033"
+              class="id_Disanius id_Varillus" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M -241.285934,-239.616211 C -186.676437,-261.111603 -72.519157,-211.440460 -51.023762,-156.830978"
+              class="id_Doris id_Eudina" stroke-opacity="1.0" stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -241.285934,-239.616211 C -65.806808,-265.494751 236.229675,-41.093857 262.108215,134.385269"
+              class="id_Doris id_Eupathus" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.68"
+              d="M -241.285934,-239.616211 C -130.141449,-320.774170 158.312180,-275.794312 239.470123,-164.649841"
+              class="id_Doris id_Garrula" stroke-opacity="1.0" stroke="#80afb9"/>
+        <path fill="none" stroke-width="1.26"
+              d="M -241.285934,-239.616211 C -154.746460,-196.109787 -90.196892,-1.040995 -133.703308,85.498474"
+              class="id_Doris id_Geron" stroke-opacity="1.0" stroke="#d4e4bd"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -241.285934,-239.616211 C -94.312309,-289.673828 201.234528,-144.299774 251.292130,2.673860"
+              class="id_Doris id_Justinius" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.68"
+              d="M -241.285934,-239.616211 C -118.852493,-240.904755 66.730484,-59.187401 68.019028,63.246040"
+              class="id_Doris id_King" stroke-opacity="1.0" stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -241.285934,-239.616211 C -233.453766,-291.974274 -143.168365,-358.763123 -90.810303,-350.930939"
+              class="id_Doris id_Matho" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.68"
+              d="M -241.285934,-239.616211 C -176.398132,-233.608810 -88.077522,-127.266052 -94.084908,-62.378250"
+              class="id_Doris id_Philargus" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M -241.285934,-239.616211 C -154.756577,-244.047791 -18.315186,-120.901108 -13.883610,-34.371754"
+              class="id_Doris id_Philocles" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M -241.285934,-239.616211 C -189.180237,-298.943970 -22.030073,-309.777069 37.297680,-257.671356"
+              class="id_Doris id_Placilla" stroke-opacity="1.0" stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -241.285934,-239.616211 C -67.760742,-169.734512 87.704483,195.375809 17.822786,368.901001"
+              class="id_Doris id_Rustic_1" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -241.285934,-239.616211 C -99.186409,-185.808884 33.251923,108.051376 -20.555391,250.150909"
+              class="id_Doris id_Rustic_2" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -241.285934,-239.616211 C -109.028290,-153.153214 -40.336304,174.927719 -126.799294,307.185364"
+              class="id_Doris id_Rustic_3" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -241.285934,-239.616211 C -33.183510,-205.596939 227.941177,157.585602 193.921906,365.688019"
+              class="id_Doris id_Rustic_4" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -241.285934,-239.616211 C -77.257111,-222.424423 142.998413,49.406479 125.806618,213.435303"
+              class="id_Doris id_Stratocles" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="1.26"
+              d="M -241.285934,-239.616211 C -220.698929,-208.874878 -235.930435,-131.882401 -266.671783,-111.295395"
+              class="id_Doris id_Tersulus" stroke-opacity="1.0" stroke="#d4e4bd"/>
+        <path fill="none" stroke-width="1.26"
+              d="M -241.285934,-239.616211 C -157.893295,-284.504913 34.528744,-226.748993 79.417450,-143.356354"
+              class="id_Doris id_Thymele" stroke-opacity="1.0" stroke="#d4e4bd"/>
+        <path fill="none" stroke-width="1.26"
+              d="M -241.285934,-239.616211 C -202.098175,-183.347488 -227.719635,-40.162788 -283.988342,-0.975033"
+              class="id_Doris id_Varillus" stroke-opacity="1.0" stroke="#d4e4bd"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -51.023762,-156.830978 C 69.845886,-161.214111 257.725067,13.515617 262.108215,134.385269"
+              class="id_Eudina id_Eupathus" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.68"
+              d="M -51.023762,-156.830978 C 5.511247,-216.493530 179.807571,-221.184860 239.470123,-164.649841"
+              class="id_Eudina id_Garrula" stroke-opacity="1.0" stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M -51.023762,-156.830978 C -19.093781,-91.829178 -68.701508,53.568497 -133.703308,85.498474"
+              class="id_Eudina id_Geron" stroke-opacity="1.0" stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M -51.023762,-156.830978 C 41.340385,-185.393188 222.729919,-89.690285 251.292130,2.673860"
+              class="id_Eudina id_Justinius" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M -51.023762,-156.830978 C 16.800203,-136.624130 88.225876,-4.577925 68.019028,63.246040"
+              class="id_Eudina id_King" stroke-opacity="1.0" stroke="#80afb9"/>
+        <path fill="none" stroke-width="1.26"
+              d="M -51.023762,-156.830978 C -97.801064,-187.693665 -121.672989,-304.153656 -90.810303,-350.930939"
+              class="id_Eudina id_Matho" stroke-opacity="1.0" stroke="#d4e4bd"/>
+        <path fill="none" stroke-width="2.42"
+              d="M -51.023762,-156.830978 C -40.745445,-129.328201 -66.582138,-72.656570 -94.084908,-62.378250"
+              class="id_Eudina id_Philargus" stroke-opacity="1.0"
+              stroke="#e7745d"/>
+        <path fill="none" stroke-width="2.42"
+              d="M -51.023762,-156.830978 C -19.103884,-139.767151 3.180206,-66.291634 -13.883610,-34.371754"
+              class="id_Eudina id_Philocles" stroke-opacity="1.0"
+              stroke="#e7745d"/>
+        <path fill="none" stroke-width="1.84"
+              d="M -51.023762,-156.830978 C -53.527550,-194.663345 -0.534683,-255.167572 37.297680,-257.671356"
+              class="id_Eudina id_Placilla" stroke-opacity="1.0"
+              stroke="#f7d09e"/>
+        <path fill="none" stroke-width="0.68"
+              d="M -51.023762,-156.830978 C 67.891953,-65.453880 109.199883,249.985260 17.822786,368.901001"
+              class="id_Eudina id_Rustic_1" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M -51.023762,-156.830978 C 36.466290,-81.528275 54.747311,162.660858 -20.555391,250.150909"
+              class="id_Eudina id_Rustic_2" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M -51.023762,-156.830978 C 26.624405,-48.872597 -18.840912,229.537186 -126.799294,307.185364"
+              class="id_Eudina id_Rustic_3" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -51.023762,-156.830978 C 102.469170,-101.316315 249.436569,212.195068 193.921906,365.688019"
+              class="id_Eudina id_Rustic_4" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -51.023762,-156.830978 C 8.833328,37.995987 -193.621475,420.022095 -388.448456,479.879181"
+              class="id_Eudina id_Soldiers" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.68"
+              d="M -51.023762,-156.830978 C 58.395576,-118.143799 164.493805,104.015976 125.806618,213.435303"
+              class="id_Eudina id_Stratocles" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M -51.023762,-156.830978 C -85.046249,-104.594254 -214.435059,-77.272903 -266.671783,-111.295395"
+              class="id_Eudina id_Tersulus" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="1.84"
+              d="M -51.023762,-156.830978 C -22.240595,-180.224289 56.024132,-172.139526 79.417450,-143.356354"
+              class="id_Eudina id_Thymele" stroke-opacity="1.0" stroke="#f7d09e"/>
+        <path fill="none" stroke-width="0.68"
+              d="M -51.023762,-156.830978 C -66.445496,-79.066872 -206.224228,14.446693 -283.988342,-0.975033"
+              class="id_Eudina id_Varillus" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M 262.108215,134.385269 C 197.773575,79.105865 184.190720,-100.315201 239.470123,-164.649841"
+              class="id_Eupathus id_Garrula" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 262.108215,134.385269 C 173.168549,203.770218 -64.318359,174.438141 -133.703308,85.498474"
+              class="id_Eupathus id_Geron" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="1.26"
+              d="M 262.108215,134.385269 C 233.602722,110.206200 227.113068,31.179359 251.292130,2.673860"
+              class="id_Eupathus id_Justinius" stroke-opacity="1.0"
+              stroke="#d4e4bd"/>
+        <path fill="none" stroke-width="1.26"
+              d="M 262.108215,134.385269 C 209.062531,158.975266 92.609024,116.291718 68.019028,63.246040"
+              class="id_Eupathus id_King" stroke-opacity="1.0" stroke="#d4e4bd"/>
+        <path fill="none" stroke-width="0.68"
+              d="M 262.108215,134.385269 C 151.516891,166.271179 -62.198990,48.213081 -94.084908,-62.378250"
+              class="id_Eupathus id_Philargus" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M 262.108215,134.385269 C 173.158447,155.832230 7.563351,54.578014 -13.883610,-34.371754"
+              class="id_Eupathus id_Philocles" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 262.108215,134.385269 C 138.734772,100.936050 3.848457,-134.297913 37.297680,-257.671356"
+              class="id_Eupathus id_Placilla" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.68"
+              d="M 262.108215,134.385269 C 260.154266,230.145508 113.583015,370.854950 17.822786,368.901001"
+              class="id_Eupathus id_Rustic_1" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M 262.108215,134.385269 C 228.728622,214.071106 59.130463,283.530518 -20.555391,250.150909"
+              class="id_Eupathus id_Rustic_2" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M 262.108215,134.385269 C 218.886749,246.726776 -14.457771,350.406830 -126.799294,307.185364"
+              class="id_Eupathus id_Rustic_3" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M 262.108215,134.385269 C 294.731506,194.283081 253.819733,333.064728 193.921906,365.688019"
+              class="id_Eupathus id_Rustic_4" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M 262.108215,134.385269 C 250.657913,177.455597 168.876953,224.885605 125.806618,213.435303"
+              class="id_Eupathus id_Stratocles" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M 262.108215,134.385269 C 107.216072,191.005142 -210.051910,43.596741 -266.671783,-111.295395"
+              class="id_Eupathus id_Tersulus" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M 262.108215,134.385269 C 170.021744,115.375099 60.407276,-51.269875 79.417450,-143.356354"
+              class="id_Eupathus id_Thymele" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M 262.108215,134.385269 C 125.816833,216.532516 -201.841095,135.316345 -283.988342,-0.975033"
+              class="id_Eupathus id_Varillus" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="1.26"
+              d="M 239.470123,-164.649841 C 214.865112,-39.985497 -9.038963,110.103493 -133.703308,85.498474"
+              class="id_Garrula id_Geron" stroke-opacity="1.0" stroke="#d4e4bd"/>
+        <path fill="none" stroke-width="1.26"
+              d="M 239.470123,-164.649841 C 275.299255,-133.549500 282.392487,-33.155281 251.292130,2.673860"
+              class="id_Garrula id_Justinius" stroke-opacity="1.0"
+              stroke="#d4e4bd"/>
+        <path fill="none" stroke-width="0.68"
+              d="M 239.470123,-164.649841 C 250.759079,-84.780441 147.888428,51.957085 68.019028,63.246040"
+              class="id_Garrula id_King" stroke-opacity="1.0" stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M 239.470123,-164.649841 C 193.213440,-77.484520 -6.919582,-16.121559 -94.084908,-62.378250"
+              class="id_Garrula id_Philargus" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M 239.470123,-164.649841 C 214.854996,-87.923477 62.842758,-9.756630 -13.883610,-34.371754"
+              class="id_Garrula id_Philocles" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M 239.470123,-164.649841 C 180.431335,-142.819672 59.127861,-198.632568 37.297680,-257.671356"
+              class="id_Garrula id_Placilla" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 239.470123,-164.649841 C 301.850830,-13.610195 168.862427,306.520294 17.822786,368.901001"
+              class="id_Garrula id_Rustic_1" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 239.470123,-164.649841 C 270.425171,-29.684597 114.409851,219.195862 -20.555391,250.150909"
+              class="id_Garrula id_Rustic_2" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 239.470123,-164.649841 C 260.583282,2.971077 40.821625,286.072205 -126.799294,307.185364"
+              class="id_Garrula id_Rustic_3" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 239.470123,-164.649841 C 336.428040,-49.472618 309.099121,268.730072 193.921906,365.688019"
+              class="id_Garrula id_Rustic_4" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 239.470123,-164.649841 C 292.354462,-66.300110 224.156342,160.550964 125.806618,213.435303"
+              class="id_Garrula id_Stratocles" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 239.470123,-164.649841 C 148.912613,-52.750572 -154.772507,-20.737900 -266.671783,-111.295395"
+              class="id_Garrula id_Tersulus" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="1.84"
+              d="M 239.470123,-164.649841 C 211.718292,-128.380615 115.686684,-115.604515 79.417450,-143.356354"
+              class="id_Garrula id_Thymele" stroke-opacity="1.0"
+              stroke="#f7d09e"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 239.470123,-164.649841 C 167.513397,-27.223190 -146.561676,70.981705 -283.988342,-0.975033"
+              class="id_Garrula id_Varillus" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.68"
+              d="M -133.703308,85.498474 C -73.269150,-8.065536 157.728119,-57.760300 251.292130,2.673860"
+              class="id_Geron id_Justinius" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -133.703308,85.498474 C -97.809326,40.703518 23.224070,27.352055 68.019028,63.246040"
+              class="id_Geron id_King" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.68"
+              d="M -133.703308,85.498474 C -155.354965,47.999447 -131.583939,-40.726582 -94.084908,-62.378250"
+              class="id_Geron id_Philargus" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M -133.703308,85.498474 C -133.713409,37.560486 -61.821594,-34.361649 -13.883610,-34.371754"
+              class="id_Geron id_Philocles" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M -133.703308,85.498474 C -168.137085,-17.335690 -65.536484,-223.237579 37.297680,-257.671356"
+              class="id_Geron id_Placilla" stroke-opacity="1.0" stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M -133.703308,85.498474 C -46.717583,111.873764 44.198074,281.915283 17.822786,368.901001"
+              class="id_Geron id_Rustic_1" stroke-opacity="1.0" stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M -133.703308,85.498474 C -78.143234,95.799377 -10.254486,194.590851 -20.555391,250.150909"
+              class="id_Geron id_Rustic_2" stroke-opacity="1.0" stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M -133.703308,85.498474 C -87.985130,128.455048 -83.842720,261.467194 -126.799294,307.185364"
+              class="id_Geron id_Rustic_3" stroke-opacity="1.0" stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M -133.703308,85.498474 C -12.140350,76.011330 184.434753,244.125061 193.921906,365.688019"
+              class="id_Geron id_Rustic_4" stroke-opacity="1.0" stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -133.703308,85.498474 C -56.213959,59.183853 99.491997,135.945953 125.806618,213.435303"
+              class="id_Geron id_Stratocles" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.68"
+              d="M -133.703308,85.498474 C -199.655777,72.733398 -279.436859,-45.342918 -266.671783,-111.295395"
+              class="id_Geron id_Tersulus" stroke-opacity="1.0" stroke="#80afb9"/>
+        <path fill="none" stroke-width="1.26"
+              d="M -133.703308,85.498474 C -136.850128,-2.896645 -8.977669,-140.209534 79.417450,-143.356354"
+              class="id_Geron id_Thymele" stroke-opacity="1.0" stroke="#d4e4bd"/>
+        <path fill="none" stroke-width="0.68"
+              d="M -133.703308,85.498474 C -181.055023,98.260780 -271.226044,46.376678 -283.988342,-0.975033"
+              class="id_Geron id_Varillus" stroke-opacity="1.0" stroke="#80afb9"/>
+        <path fill="none" stroke-width="1.84"
+              d="M 251.292130,2.673860 C 226.751953,51.442913 116.788078,87.786224 68.019028,63.246040"
+              class="id_Justinius id_King" stroke-opacity="1.0" stroke="#f7d09e"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 251.292130,2.673860 C 112.150681,0.373375 -93.110786,-211.789490 -90.810303,-350.930939"
+              class="id_Justinius id_Matho" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.68"
+              d="M 251.292130,2.673860 C 169.206284,58.738853 -38.019913,19.707588 -94.084908,-62.378250"
+              class="id_Justinius id_Philargus" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M 251.292130,2.673860 C 190.847870,48.299889 31.742416,26.072517 -13.883610,-34.371754"
+              class="id_Justinius id_Philocles" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M 251.292130,2.673860 C 156.424194,-6.596294 28.027527,-162.803421 37.297680,-257.671356"
+              class="id_Justinius id_Placilla" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M 251.292130,2.673860 C 277.843689,122.613159 137.762085,342.349457 17.822786,368.901001"
+              class="id_Justinius id_Rustic_1" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M 251.292130,2.673860 C 246.418030,106.538773 83.309525,255.025009 -20.555391,250.150909"
+              class="id_Justinius id_Rustic_2" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M 251.292130,2.673860 C 236.576141,139.194443 9.721294,321.901367 -126.799294,307.185364"
+              class="id_Justinius id_Rustic_3" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M 251.292130,2.673860 C 312.420929,86.750740 277.998779,304.559204 193.921906,365.688019"
+              class="id_Justinius id_Rustic_4" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="1.26"
+              d="M 251.292130,2.673860 C 268.347321,69.923248 193.056000,196.380127 125.806618,213.435303"
+              class="id_Justinius id_Stratocles" stroke-opacity="1.0"
+              stroke="#d4e4bd"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 251.292130,2.673860 C 124.905487,83.472794 -185.872849,15.091248 -266.671783,-111.295395"
+              class="id_Justinius id_Tersulus" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="1.26"
+              d="M 251.292130,2.673860 C 187.711151,7.842756 84.586349,-79.775375 79.417450,-143.356354"
+              class="id_Justinius id_Thymele" stroke-opacity="1.0"
+              stroke="#d4e4bd"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 251.292130,2.673860 C 143.506241,109.000183 -177.662033,106.810844 -283.988342,-0.975033"
+              class="id_Justinius id_Varillus" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.68"
+              d="M 68.019028,63.246040 C -46.582237,12.176512 -141.879822,-236.329681 -90.810303,-350.930939"
+              class="id_King id_Matho" stroke-opacity="1.0" stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M 68.019028,63.246040 C 10.473377,70.541977 -86.788971,-4.832600 -94.084908,-62.378250"
+              class="id_King id_Philargus" stroke-opacity="1.0" stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M 68.019028,63.246040 C 32.114944,60.103008 -17.026640,1.532331 -13.883610,-34.371754"
+              class="id_King id_Philocles" stroke-opacity="1.0" stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M 68.019028,63.246040 C -2.308723,5.206831 -20.741531,-187.343613 37.297680,-257.671356"
+              class="id_King id_Placilla" stroke-opacity="1.0" stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M 68.019028,63.246040 C 119.110771,134.416275 88.993027,317.809265 17.822786,368.901001"
+              class="id_King id_Rustic_1" stroke-opacity="1.0" stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M 68.019028,63.246040 C 87.685120,118.341896 34.540466,230.484802 -20.555391,250.150909"
+              class="id_King id_Rustic_2" stroke-opacity="1.0" stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M 68.019028,63.246040 C 77.843224,150.997574 -39.047760,297.361145 -126.799294,307.185364"
+              class="id_King id_Rustic_3" stroke-opacity="1.0" stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M 68.019028,63.246040 C 153.688004,98.553856 229.229736,280.019043 193.921906,365.688019"
+              class="id_King id_Rustic_4" stroke-opacity="1.0" stroke="#80afb9"/>
+        <path fill="none" stroke-width="1.26"
+              d="M 68.019028,63.246040 C 109.614403,81.726379 144.286957,171.839935 125.806618,213.435303"
+              class="id_King id_Stratocles" stroke-opacity="1.0"
+              stroke="#d4e4bd"/>
+        <path fill="none" stroke-width="0.68"
+              d="M 68.019028,63.246040 C -33.827415,95.275909 -234.641907,-9.448952 -266.671783,-111.295395"
+              class="id_King id_Tersulus" stroke-opacity="1.0" stroke="#80afb9"/>
+        <path fill="none" stroke-width="1.26"
+              d="M 68.019028,63.246040 C 28.978233,19.645876 35.817284,-104.315559 79.417450,-143.356354"
+              class="id_King id_Thymele" stroke-opacity="1.0" stroke="#d4e4bd"/>
+        <path fill="none" stroke-width="0.68"
+              d="M 68.019028,63.246040 C -15.226670,120.803307 -226.431076,82.270668 -283.988342,-0.975033"
+              class="id_King id_Varillus" stroke-opacity="1.0" stroke="#80afb9"/>
+        <path fill="none" stroke-width="1.26"
+              d="M -90.810303,-350.930939 C -33.754692,-292.565491 -35.719452,-119.433861 -94.084908,-62.378250"
+              class="id_Matho id_Philargus" stroke-opacity="1.0"
+              stroke="#d4e4bd"/>
+        <path fill="none" stroke-width="1.26"
+              d="M -90.810303,-350.930939 C -12.113132,-303.004456 34.042885,-113.068924 -13.883610,-34.371754"
+              class="id_Matho id_Philocles" stroke-opacity="1.0"
+              stroke="#d4e4bd"/>
+        <path fill="none" stroke-width="0.68"
+              d="M -90.810303,-350.930939 C -46.536789,-357.900635 30.327999,-301.944885 37.297680,-257.671356"
+              class="id_Matho id_Placilla" stroke-opacity="1.0" stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -90.810303,-350.930939 C 74.882698,-228.691177 140.062561,203.207993 17.822786,368.901001"
+              class="id_Matho id_Rustic_1" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -90.810303,-350.930939 C 43.457047,-244.765549 85.609993,115.883560 -20.555391,250.150909"
+              class="id_Matho id_Rustic_2" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -90.810303,-350.930939 C 33.615173,-212.109863 12.021782,182.759888 -126.799294,307.185364"
+              class="id_Matho id_Rustic_3" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -90.810303,-350.930939 C 15.824097,-125.241272 -162.758804,373.244781 -388.448456,479.879181"
+              class="id_Matho id_Soldiers" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.68"
+              d="M -90.810303,-350.930939 C 65.386322,-281.381073 195.356476,57.238674 125.806618,213.435303"
+              class="id_Matho id_Stratocles" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -90.810303,-350.930939 C -78.055489,-267.831543 -183.572372,-124.050209 -266.671783,-111.295395"
+              class="id_Matho id_Tersulus" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.68"
+              d="M -90.810303,-350.930939 C -15.249832,-343.461578 86.886818,-218.916824 79.417450,-143.356354"
+              class="id_Matho id_Thymele" stroke-opacity="1.0" stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -90.810303,-350.930939 C -59.454720,-242.304153 -175.361542,-32.330616 -283.988342,-0.975033"
+              class="id_Matho id_Varillus" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -94.084908,-62.378250 C -72.443344,-72.817207 -24.322569,-56.013313 -13.883610,-34.371754"
+              class="id_Philargus id_Philocles" stroke-opacity="1.0"
+              stroke="#d7191c"/>
+        <path fill="none" stroke-width="1.84"
+              d="M -94.084908,-62.378250 C -106.867012,-127.713394 -28.037462,-244.889252 37.297680,-257.671356"
+              class="id_Philargus id_Placilla" stroke-opacity="1.0"
+              stroke="#f7d09e"/>
+        <path fill="none" stroke-width="0.68"
+              d="M -94.084908,-62.378250 C 14.552475,1.496056 81.697090,260.263611 17.822786,368.901001"
+              class="id_Philargus id_Rustic_1" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M -94.084908,-62.378250 C -16.873165,-14.578314 27.244545,172.939163 -20.555391,250.150909"
+              class="id_Philargus id_Rustic_2" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M -94.084908,-62.378250 C -26.715065,18.077347 -46.343697,239.815521 -126.799294,307.185364"
+              class="id_Philargus id_Rustic_3" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -94.084908,-62.378250 C 49.129711,-34.366352 221.933807,222.473404 193.921906,365.688019"
+              class="id_Philargus id_Rustic_4" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -94.084908,-62.378250 C -44.506119,104.945953 -221.124252,430.300385 -388.448456,479.879181"
+              class="id_Philargus id_Soldiers" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.68"
+              d="M -94.084908,-62.378250 C 5.056107,-51.193848 136.991013,114.294296 125.806618,213.435303"
+              class="id_Philargus id_Stratocles" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="1.26"
+              d="M -94.084908,-62.378250 C -138.385712,-37.644306 -241.937836,-66.994583 -266.671783,-111.295395"
+              class="id_Philargus id_Tersulus" stroke-opacity="1.0"
+              stroke="#d4e4bd"/>
+        <path fill="none" stroke-width="1.84"
+              d="M -94.084908,-62.378250 C -75.580063,-113.274338 28.521358,-161.861206 79.417450,-143.356354"
+              class="id_Philargus id_Thymele" stroke-opacity="1.0"
+              stroke="#f7d09e"/>
+        <path fill="none" stroke-width="1.26"
+              d="M -94.084908,-62.378250 C -119.784958,-12.116917 -233.727020,24.725014 -283.988342,-0.975033"
+              class="id_Philargus id_Varillus" stroke-opacity="1.0"
+              stroke="#d4e4bd"/>
+        <path fill="none" stroke-width="1.84"
+              d="M -13.883610,-34.371754 C -48.307274,-89.267937 -17.598497,-223.247696 37.297680,-257.671356"
+              class="id_Philocles id_Placilla" stroke-opacity="1.0"
+              stroke="#f7d09e"/>
+        <path fill="none" stroke-width="0.68"
+              d="M -13.883610,-34.371754 C 73.112228,39.941525 92.136063,281.905182 17.822786,368.901001"
+              class="id_Philocles id_Rustic_1" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M -13.883610,-34.371754 C 41.686569,23.867136 37.683498,194.580719 -20.555391,250.150909"
+              class="id_Philocles id_Rustic_2" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.68"
+              d="M -13.883610,-34.371754 C 31.844688,56.522812 -35.904724,261.457062 -126.799294,307.185364"
+              class="id_Philocles id_Rustic_3" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -13.883610,-34.371754 C 107.689453,4.079098 232.372772,244.114960 193.921906,365.688019"
+              class="id_Philocles id_Rustic_4" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -13.883610,-34.371754 C 14.053596,143.391388 -210.685303,451.941956 -388.448456,479.879181"
+              class="id_Philocles id_Soldiers" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.68"
+              d="M -13.883610,-34.371754 C 63.615845,-12.748390 147.429993,135.935852 125.806618,213.435303"
+              class="id_Philocles id_Stratocles" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="1.26"
+              d="M -13.883610,-34.371754 C -79.825974,0.801151 -231.498886,-45.353031 -266.671783,-111.295395"
+              class="id_Philocles id_Tersulus" stroke-opacity="1.0"
+              stroke="#d4e4bd"/>
+        <path fill="none" stroke-width="1.84"
+              d="M -13.883610,-34.371754 C -17.020317,-74.828880 38.960320,-140.219650 79.417450,-143.356354"
+              class="id_Philocles id_Thymele" stroke-opacity="1.0"
+              stroke="#f7d09e"/>
+        <path fill="none" stroke-width="1.26"
+              d="M -13.883610,-34.371754 C -61.225212,26.328537 -223.288055,46.366570 -283.988342,-0.975033"
+              class="id_Philocles id_Varillus" stroke-opacity="1.0"
+              stroke="#d4e4bd"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 37.297680,-257.671356 C 158.717178,-128.461899 147.032242,247.481491 17.822786,368.901001"
+              class="id_Placilla id_Rustic_1" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 37.297680,-257.671356 C 127.291519,-144.536285 92.579674,160.157074 -20.555391,250.150909"
+              class="id_Placilla id_Rustic_2" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 37.297680,-257.671356 C 117.449631,-111.880615 18.991440,227.033417 -126.799294,307.185364"
+              class="id_Placilla id_Rustic_3" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 37.297680,-257.671356 C 193.294403,-164.324326 287.268951,209.691299 193.921906,365.688019"
+              class="id_Placilla id_Rustic_4" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 37.297680,-257.671356 C 149.220810,-181.151794 202.326172,101.512177 125.806618,213.435303"
+              class="id_Placilla id_Stratocles" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.68"
+              d="M 37.297680,-257.671356 C 5.778980,-167.602264 -176.602707,-79.776695 -266.671783,-111.295395"
+              class="id_Placilla id_Tersulus" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="1.84"
+              d="M 37.297680,-257.671356 C 68.584633,-243.232300 93.856499,-174.643311 79.417450,-143.356354"
+              class="id_Placilla id_Thymele" stroke-opacity="1.0"
+              stroke="#f7d09e"/>
+        <path fill="none" stroke-width="0.68"
+              d="M 37.297680,-257.671356 C 24.379745,-142.074890 -168.391876,11.942902 -283.988342,-0.975033"
+              class="id_Placilla id_Varillus" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="1.84"
+              d="M 17.822786,368.901001 C -13.602868,352.826599 -36.629776,281.576569 -20.555391,250.150909"
+              class="id_Rustic_1 id_Rustic_2" stroke-opacity="1.0"
+              stroke="#f7d09e"/>
+        <path fill="none" stroke-width="1.84"
+              d="M 17.822786,368.901001 C -23.444759,385.482269 -110.218002,348.452911 -126.799294,307.185364"
+              class="id_Rustic_1 id_Rustic_3" stroke-opacity="1.0"
+              stroke="#f7d09e"/>
+        <path fill="none" stroke-width="1.26"
+              d="M 17.822786,368.901001 C 52.400013,333.038574 158.059494,331.110809 193.921906,365.688019"
+              class="id_Rustic_1 id_Rustic_4" stroke-opacity="1.0"
+              stroke="#d4e4bd"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 17.822786,368.901001 C -41.235821,472.350891 -284.998566,538.937744 -388.448456,479.879181"
+              class="id_Rustic_1 id_Soldiers" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="1.26"
+              d="M 17.822786,368.901001 C 8.326412,316.211090 73.116714,222.931671 125.806618,213.435303"
+              class="id_Rustic_1 id_Stratocles" stroke-opacity="1.0"
+              stroke="#d4e4bd"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 17.822786,368.901001 C -135.115417,329.760651 -305.812164,41.642803 -266.671783,-111.295395"
+              class="id_Rustic_1 id_Tersulus" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 17.822786,368.901001 C -72.309753,254.130585 -35.352951,-53.223816 79.417450,-143.356354"
+              class="id_Rustic_1 id_Thymele" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 17.822786,368.901001 C -116.514656,355.288025 -297.601318,133.362396 -283.988342,-0.975033"
+              class="id_Rustic_1 id_Varillus" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="1.84"
+              d="M -20.555391,250.150909 C -30.397282,282.806580 -94.143623,317.027252 -126.799294,307.185364"
+              class="id_Rustic_2 id_Rustic_3" stroke-opacity="1.0"
+              stroke="#f7d09e"/>
+        <path fill="none" stroke-width="1.26"
+              d="M -20.555391,250.150909 C 45.447487,230.362869 174.133865,299.685150 193.921906,365.688019"
+              class="id_Rustic_2 id_Rustic_4" stroke-opacity="1.0"
+              stroke="#d4e4bd"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -20.555391,250.150909 C -48.188351,369.675171 -268.924194,507.512146 -388.448456,479.879181"
+              class="id_Rustic_2 id_Soldiers" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="1.26"
+              d="M -20.555391,250.150909 C 1.373891,213.535385 89.191086,191.506027 125.806618,213.435303"
+              class="id_Rustic_2 id_Stratocles" stroke-opacity="1.0"
+              stroke="#d4e4bd"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -20.555391,250.150909 C -142.067932,227.084946 -289.737762,10.217136 -266.671783,-111.295395"
+              class="id_Rustic_2 id_Tersulus" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -20.555391,250.150909 C -79.262276,151.454895 -19.278572,-84.649467 79.417450,-143.356354"
+              class="id_Rustic_2 id_Thymele" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -20.555391,250.150909 C -123.467163,252.612305 -281.526947,101.936737 -283.988342,-0.975033"
+              class="id_Rustic_2 id_Varillus" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="1.26"
+              d="M -126.799294,307.185364 C -50.954521,254.741653 141.478195,289.843262 193.921906,365.688019"
+              class="id_Rustic_3 id_Rustic_4" stroke-opacity="1.0"
+              stroke="#d4e4bd"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -126.799294,307.185364 C -144.590363,394.053955 -301.579865,497.670258 -388.448456,479.879181"
+              class="id_Rustic_3 id_Soldiers" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="1.26"
+              d="M -126.799294,307.185364 C -95.028122,237.914185 56.535419,181.664139 125.806618,213.435303"
+              class="id_Rustic_3 id_Stratocles" stroke-opacity="1.0"
+              stroke="#d4e4bd"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -126.799294,307.185364 C -238.469971,251.463699 -322.393433,0.375267 -266.671783,-111.295395"
+              class="id_Rustic_3 id_Tersulus" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -126.799294,307.185364 C -175.664291,175.833679 -51.934242,-94.491356 79.417450,-143.356354"
+              class="id_Rustic_3 id_Thymele" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -126.799294,307.185364 C -219.869186,276.991089 -314.182617,92.094864 -283.988342,-0.975033"
+              class="id_Rustic_3 id_Varillus" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.68"
+              d="M 193.921906,365.688019 C 149.848297,348.860535 108.979126,257.508911 125.806618,213.435303"
+              class="id_Rustic_4 id_Stratocles" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 193.921906,365.688019 C 6.406487,362.410065 -269.949707,76.220024 -266.671783,-111.295395"
+              class="id_Rustic_4 id_Tersulus" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 193.921906,365.688019 C 69.212135,286.780029 0.509468,-18.646587 79.417450,-143.356354"
+              class="id_Rustic_4 id_Thymele" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 193.921906,365.688019 C 25.007240,387.937469 -261.738892,167.939636 -283.988342,-0.975033"
+              class="id_Rustic_4 id_Varillus" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -388.448456,479.879181 C -338.886230,323.739380 -30.333172,163.873077 125.806618,213.435303"
+              class="id_Soldiers id_Stratocles" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 125.806618,213.435303 C -17.635208,226.984848 -253.122253,32.146431 -266.671783,-111.295395"
+              class="id_Stratocles id_Tersulus" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 125.806618,213.435303 C 45.170448,151.354797 17.336945,-62.720184 79.417450,-143.356354"
+              class="id_Stratocles id_Thymele" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 125.806618,213.435303 C 0.965565,252.512222 -244.911423,123.866020 -283.988342,-0.975033"
+              class="id_Stratocles id_Varillus" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.68"
+              d="M -266.671783,-111.295395 C -203.866135,-186.925430 3.787416,-206.162018 79.417450,-143.356354"
+              class="id_Tersulus id_Thymele" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+        <path fill="none" stroke-width="1.84"
+              d="M -266.671783,-111.295395 C -248.071030,-85.768013 -258.460938,-19.575792 -283.988342,-0.975033"
+              class="id_Tersulus id_Varillus" stroke-opacity="1.0"
+              stroke="#f7d09e"/>
+        <path fill="none" stroke-width="0.68"
+              d="M 79.417450,-143.356354 C 35.212551,-42.198936 -182.830933,43.229866 -283.988342,-0.975033"
+              class="id_Thymele id_Varillus" stroke-opacity="1.0"
+              stroke="#80afb9"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#f97743" r="18.333332" cx="148.69688"
+                class="id_Disanius" cy="10.761243" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="13.333334" cx="-241.28593"
+                class="id_Doris" cy="-239.61621" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="18.333332" cx="-51.02376"
+                class="id_Eudina" cy="-156.83098" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="14.333334" cx="262.10822"
+                class="id_Eupathus" cy="134.38527" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="13.666667" cx="239.47012"
+                class="id_Garrula" cy="-164.64984" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#28b36a" r="14.333334" cx="-133.70331"
+                class="id_Geron" cy="85.498474" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="16.666668" cx="251.29213"
+                class="id_Justinius" cy="2.6738603" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="17.0" cx="68.01903"
+                class="id_King" cy="63.24604" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="11.0" cx="-90.8103"
+                class="id_Matho" cy="-350.93094" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="20.0" cx="-94.08491"
+                class="id_Philargus" cy="-62.37825" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="20.0" cx="-13.88361"
+                class="id_Philocles" cy="-34.371754" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="15.666667" cx="37.29768"
+                class="id_Placilla" cy="-257.67136" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="15.0" cx="17.822786"
+                class="id_Rustic_1" cy="368.901" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="15.0" cx="-20.555391"
+                class="id_Rustic_2" cy="250.15091" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="15.0" cx="-126.79929"
+                class="id_Rustic_3" cy="307.18536" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="12.333334" cx="193.9219"
+                class="id_Rustic_4" cy="365.68802" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="15.0" cx="125.80662"
+                class="id_Stratocles" cy="213.4353" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="14.0" cx="-266.67178"
+                class="id_Tersulus" cy="-111.295395" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="18.333332" cx="79.41745"
+                class="id_Thymele" cy="-143.35635" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="14.0" cx="-283.98834"
+                class="id_Varillus" cy="-0.97503316" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="5.0" cx="-388.44846"
+                class="id_Soldiers" cy="479.87918" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="37" x="148.69688" y="17.58131" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Disanius">
+            Disanius
+        </text>
+        <text font-size="27" x="-241.28593" y="-234.6394" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Doris">
+            Doris
+        </text>
+        <text font-size="37" x="-51.02376" y="-150.00188" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Eudina">
+            Eudina
+        </text>
+        <text font-size="29" x="262.10822" y="141.11488" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Eupathus">
+            Eupathus
+        </text>
+        <text font-size="27" x="239.47012" y="-159.55438" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Garrula">
+            Garrula
+        </text>
+        <text font-size="29" x="-133.70331" y="90.971375" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Geron">
+            Geron
+        </text>
+        <text font-size="33" x="251.29213" y="8.756624" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Justinius">
+            Justinius
+        </text>
+        <text font-size="34" x="68.01903" y="71.22309" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_King">
+            King
+        </text>
+        <text font-size="22" x="-90.8103" y="-346.8677" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Matho">
+            Matho
+        </text>
+        <text font-size="40" x="-94.08491" y="-52.96907" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Philargus">
+            Philargus
+        </text>
+        <text font-size="40" x="-13.88361" y="-26.974293" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Philocles">
+            Philocles
+        </text>
+        <text font-size="31" x="37.29768" y="-251.97617" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Placilla">
+            Placilla
+        </text>
+        <text font-size="30" x="17.822786" y="375.21814" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Rustic_1">
+            Rustic_1
+        </text>
+        <text font-size="30" x="-20.555391" y="256.46805" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Rustic_2">
+            Rustic_2
+        </text>
+        <text font-size="30" x="-126.79929" y="313.5025" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Rustic_3">
+            Rustic_3
+        </text>
+        <text font-size="25" x="193.9219" y="370.9523" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Rustic_4">
+            Rustic_4
+        </text>
+        <text font-size="30" x="125.80662" y="219.10791" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Stratocles">
+            Stratocles
+        </text>
+        <text font-size="28" x="-266.67178" y="-106.13426" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Tersulus">
+            Tersulus
+        </text>
+        <text font-size="37" x="79.41745" y="-134.7161" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Thymele">
+            Thymele
+        </text>
+        <text font-size="28" x="-283.98834" y="4.1860995" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Varillus">
+            Varillus
+        </text>
+        <text font-size="10" x="-388.44846" y="481.77005" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="id_Soldiers">
+            Soldiers
+        </text>
+    </g>
+</svg>

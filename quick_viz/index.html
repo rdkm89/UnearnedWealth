@@ -1,0 +1,580 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+* {
+    box-sizing: border-box;
+}
+
+.column {
+    float: left;
+    width: 25%;
+    padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+</style>
+</head>
+
+<body>
+
+<font face="Helvetica" >
+<h2> Brome's Social Networks </h2>
+<p> Including top three characters by Weighted Degree </p>
+<p> (Orange = Gentry; Green = Middle; Purple = Lower; Grey = Undefined) </p>
+
+<br>
+
+<div class="row">
+  <div class="column">
+    <h4 align="center">A Jovial Crew</h4>
+    <img src="images/AJovialCrew.svg" style="width:100%">
+  </div>
+  <div class="column">
+    <h4 align="center">A Madd Couple Well Matched</h4>
+    <img src="images/AMaddCouple.svg" style="width:100%">
+  </div>
+  <div class="column">
+    <h4 align="center">The Antipodes</h4>
+    <img src="images/Antipodes.svg" style="width:100%">
+  </div>
+  <div class="column">
+    <h4 align="center"> The City Wit </h4>
+    <img src="images/CityWit.svg" style="width:100%">
+  </div>
+</div>
+<div class="row">
+  <div class="column">
+      <font size="2" face="Helvetica" >
+      <table align="center" style='padding:0px 0px 50px 0px' 'border-spacing: 1em 0;'>
+             <tr>
+                   <th> Character </th>
+                   <th> Social Class </th>
+                   <th> Weighted Degree </th>
+                   <th> Word Count </>
+             </tr>
+             <tr style="background-color:#28b36a">
+                   <td> Springlove </td>
+                   <td> Middle </td>
+                   <td> 53 </td>
+                   <td>4432</td>
+
+             </tr>
+             <tr style="background-color:#f97743">
+                   <td> Hilliard </td>
+                   <td> Gentry </td>
+                   <td> 45 </td>
+                   <td> 1199</td>
+
+             </tr>
+             <tr style="background-color:#f97743">
+                   <td> Meriel </td>
+                   <td> Gentry </td>
+                   <td> 45 </td>
+                   <td>1337</td>
+           </table>
+  </div>
+  <div class="column">
+    <font size="2" face="Helvetica" >
+      <table align="center" style='padding:0px 0px 50px 0px' 'border-spacing: 1em 0;'>
+            <tr>
+                  <th> Character </th>
+                  <th> Social Class </th>
+                  <th> Weighted Degree </th>
+                  <th> Word Count </th>
+            </tr>
+            <tr style="background-color:#28b36a">
+                  <td> Saveall </td>
+                  <td> Middle </td>
+                  <td> 46 </td>
+                  <td> 1877</td>
+            </tr>
+            <tr style="background-color:#f97743">
+                  <td>Careless</td>
+                  <td> Gentry </td>
+                  <td>41</td>
+                  <td>7133</td>
+            </tr>
+            <tr style="background-color:#f97743">
+                  <td> Lady </td>
+                  <td> Gentry </td>
+                  <td> 40 </td>
+                  <td>4620</td>
+          </table>
+  </div>
+  <div class="column">
+      <font size="2" face="Helvetica" >
+      <table align="center" style='padding:0px 0px 50px 0px' 'border-spacing: 1em 0;'>
+             <tr>
+                   <th> Character </th>
+                   <th> Social Class </th>
+                   <th> Weighted Degree </th>'
+                   <th> Word Count </th>
+             </tr>
+             <tr style="background-color:#f97743">
+                   <td> Joyless </td>
+                   <td> Gentry </td>
+                   <td> 94 </td>
+                   <td> 2526 </td>
+             </tr>
+             <tr style="background-color:#28b36a">
+                   <td> Doctor </td>
+                   <td> Middle </td>
+                   <td> 92 </td>
+                   <td> 3271 </td>
+
+             </tr>
+             <tr style="background-color:#9a96e5">
+                   <td> Barbara </td>
+                   <td> Lower </td>
+                   <td> 90 </td>
+                   <td> 1814 </td>
+      </table>
+  </div>
+  <div class="column">
+    <font size="2" face="Helvetica" >
+    <table align="center" style='padding:0px 0px 50px 0px' 'border-spacing: 1em 0;'>
+          <tr>
+                <th> Character </th>
+               <th> Social Class </th>
+               <th> Weighted Degree </th>
+               <th> Word Count </th>
+          </tr>
+          <tr style="background-color:#28b36a">
+                <td> Crasey </td>
+               <td> Middle </td>
+               <td> 64 </td>
+               <td> 2016 </td>
+          </tr>
+          <tr style="background-color:#28b36a">
+                <td> Sarpego </td>
+               <td> Middle </td>
+               <td> 61 </td>
+               <td> 2622 </td>
+          </tr>
+          <tr style="background-color:#f97743">
+                <td> Rufflit </td>
+               <td> Gentry </td>
+               <td> 55 </td>
+               <td> 1763 </td>
+          </tr>
+          </table>
+  </div>
+</div>
+
+<br>
+
+<div class="row">
+  <div class="column">
+    <h4 align="center">The Court Beggar</h4>
+    <img src="images/CourtBeggar.svg" style="width:100%">
+  </div>
+  <div class="column">
+    <h4 align="center">The Weeding of Covent Garden</h4>
+    <img src="images/CoventGarden.svg" style="width:100%">
+  </div>
+  <div class="column">
+    <h4 align="center">The Demoiselle</h4>
+    <img src="images/Demoiselle.svg" style="width:100%">
+  </div>
+  <div class="column">
+    <h4 align="center"> The English Moor </h4>
+    <img src="images/EnglishMoor.svg" style="width:100%">
+  </div>
+</div>
+<div class="row">
+  <div class="column">
+      <font size="2" face="Helvetica" >
+      <table align="center" style='padding:0px 0px 50px 0px' 'border-spacing: 1em 0;'>
+             <tr>
+                   <th> Character </th>
+                   <th> Social Class </th>
+                   <th> Weighted Degree </th>
+                   <th> Word Count </th>
+             </tr>
+             <tr style="background-color:#f97743">
+                   <td> Strangelove </td>
+                   <td> Gentry </td>
+                   <td> 51 </td>
+                   <td> 3762 </td>
+             </tr>
+             <tr style="background-color:#28b36a">
+                   <td> Cit-wit </td>
+                   <td> Middle </td>
+                   <td> 45 </td>
+                   <td> 3037</td>
+             </tr>
+             <tr style="background-color:#9a96e5">
+                   <td> Philomel </td>
+                   <td> Lower </td>
+                   <td> 45 </td>
+                   <td>1419 </td>
+           </table>
+  </div>
+  <div class="column">
+    <font size="2" face="Helvetica" >
+      <table align="center" style='padding:0px 0px 50px 0px' 'border-spacing: 1em 0;'>
+            <tr>
+                  <th> Character </th>
+                  <th> Weighted Degree </th>
+                  <th> Social Class </th>
+                  <th> Word Count </th>
+            </tr>
+            <tr style="background-color:#f97743">
+                  <td> Nicholas </td>
+                  <td> Gentry </td>
+                  <td> 73 </td>
+                  <td> 3260</td>
+            </tr>
+            <tr style="background-color:#f97743">
+                  <td>Anthony</td>
+                  <td> Gentry </td>
+                  <td>71</td>
+                  <td>981</td>
+            </tr>
+            <tr style="background-color:#f97743">
+                  <td> Crosswill </td>
+                  <td> Gentry </td>
+                  <td> 67 </td>
+                  <td>6056</td>
+          </table>
+  </div>
+  <div class="column">
+      <font size="2" face="Helvetica" >
+      <table align="center" style='padding:0px 0px 50px 0px' 'border-spacing: 1em 0;'>
+             <tr>
+                   <th> Character </th>
+                   <th> Social Class </th>
+                   <th> Weighted Degree </th>
+                   <th> Word Count </th>
+             </tr>
+             <tr style="background-color:#28b36a">
+                   <td> Vermin </td>
+                   <td> Middle </td>
+                   <td> 44 </td>
+                   <td>2052</td>
+             </tr>
+             <tr style="background-color:#f97743">
+                   <td> Valentine </td>
+                   <td> Gentry </td>
+                   <td> 40 </td>
+                   <td> 3100 </td>
+             </tr>
+             <tr style="background-color:#f97743">
+                   <td> Amphilus </td>
+                   <td> Gentry </td>
+                   <td> 40 </td>
+                   <td>1878</td>
+           </table>
+  </div>
+  <div class="column">
+    <font size="2" face="Helvetica" >
+    <table align="center" style='padding:0px 0px 50px 0px' 'border-spacing: 1em 0;'>
+          <tr>
+                <th> Character </th>
+               <th> Social Class </th>
+               <th> Weighted Degree </th>
+               <th> Word Count </th>
+          </tr>
+         <tr style="background-color:#f97743">
+               <td> Nathaniel </td>
+               <td> Gentry </td>
+               <td> 51 </td>
+               <td> 3708 </td>
+          </tr>
+          <tr style="background-color:#f97743">
+                <td> Edmund </td>
+               <td> Gentry </td>
+               <td> 47 </td>
+               <td> 683 </td>
+          </tr>
+         <tr style="background-color:#f97743">
+               <td> Vincent </td>
+               <td> Gentry </td>
+               <td> 47 </td>
+               <td>831</td
+          </tr>
+          </table>
+  </div>
+</div>
+
+<br>
+
+<div class="row">
+  <div class="column">
+      <h4 align="center">The Late Lancashire Witches</h4>
+      <img src="images/LateLancashireWitches.svg" style="width:100%">
+  </div>
+  <div class="column">
+    <h4 align="center">The Love Sick Court</h4>
+    <img src="images/LoveSickCourt.svg" style="width:100%">
+  </div>
+  <div class="column">
+    <h4 align="center">The New Academy</h4>
+    <img src="images/NewAcademy.svg" style="width:100%">
+  </div>
+  <div class="column">
+    <h4 align="center">The Northern Lass</h4>
+    <img src="images/NorthernLass.svg" style="width:100%">
+  </div>
+</div>
+<div class="row">
+      <div class="column">
+            <font size="2" face="Helvetica" >
+            <table align="center" style='padding:0px 0px 50px 0px' 'border-spacing: 1em 0;'>
+                   <tr>
+                         <th> Character </th>
+                         <th> Social Class </th>
+                         <th> Weighted Degree </th>
+                         <th> Word Count </th>
+                   </tr>
+                   <tr style="background-color:#f97743">
+                         <td> Arthur </td>
+                         <td> Gentry </td>
+                         <td> 75 </td>
+                         <td> 2658 </td>
+                   </tr>
+                   <tr style="background-color:#f97743">
+                         <td> Whetstone </td>
+                         <td> Gentry </td>
+                         <td> 68 </td>
+                         <td> 2312 </td>
+                   </tr>
+                   <tr style="background-color:#f97743">
+                         <td> Bantam </td>
+                         <td> Gentry </td>
+                         <td> 68 </td>
+                         <td> 930 </td>
+                 </table>
+      </div>
+      <div class="column">
+            <font size="2" face="Helvetica" >
+            <table align="center" style='padding:0px 0px 50px 0px' 'border-spacing: 1em 0;'>
+                   <tr>
+                         <th> Character </th>
+                         <th> Social Class </th>
+                         <th> Weighted Degree </th>
+                         <th> Word Count </td>
+                   </tr>
+                   <tr style="background-color:#f97743">
+                         <td> Philargus </td>
+                         <td> Gentry </td>
+                         <td> 53 </td>
+                         <td> 2520 </td>
+                   </tr>
+                   <tr style="background-color:#f97743">
+                         <td> Philocles </td>
+                         <td> Gentry </td>
+                         <td> 53 </td>
+                         <td>2467 </td>
+
+                   </tr>
+                   <tr style="background-color:#f97743">
+                         <td> Disanius </td>
+                         <td> Gentry </td>
+                         <td> 48 </td>
+                         <td>3217 </td>
+                 </table>
+      </div>
+      <div class="column">
+          <font size="2" face="Helvetica" >
+            <table align="center" style='padding:0px 0px 50px 0px' 'border-spacing: 1em 0;'>
+                  <tr>
+                        <th> Character </th>
+                        <th> Weighted Degree </th>
+                        <th> Social Class </th>
+                        <th> Word Count </th>
+                  </tr>
+                  <tr style="background-color:#9a96e5">
+                        <td> Cash </td>
+                        <td> Lower </td>
+                        <td> 53 </td>
+                        <td> 2051 </td>
+                  </tr>
+                  <tr style="background-color:#f97743">
+                        <td>Lady Nestlecock</td>
+                        <td> Gentry </td>
+                        <td>53</td>
+                        <td> 3800 </td>
+                  </tr>
+                  <tr style="background-color:#9a96e5">
+                        <td> Rachel </td>
+                        <td> Lower </td>
+                        <td> 48 </td>
+                        <td> 1970 </td>
+                </table>
+      </div>
+      <div class="column">
+          <font size="2" face="Helvetica" >
+          <table align="center" style='padding:0px 0px 50px 0px' 'border-spacing: 1em 0;'>
+                <tr>
+                <th> Character </th>
+                <th> Social Class </th>
+                <th> Weighted Degree </th>
+                <th> Word Count </th>
+                </tr>
+                <tr style="background-color:#f97743">
+                      <td> Wigeon </td>
+                      <td> Gentry </td>
+                      <td> 57 </td>
+                      <td> 4000 </td>
+                </tr>
+                <tr style="background-color:#f97743">
+                      <td> Anvil </td>
+                      <td> Gentry </td>
+                      <td> 56 </td>
+                      <td> 2567 </td>
+                </tr>
+                <tr style="background-color:#9a96e5">
+                      <td> Howdee </td>
+                      <td> Lower </td>
+                      <td> 50 </td>
+                      <td> 1435 </td>
+                </tr>
+                </table>
+      </div>
+</div>
+
+<br>
+
+<div class="row">
+      <div class="column">
+            <h4 align="center"> Novella </h4>
+            <img src="images/Novella.svg" style="Width:100%">
+      </div>
+      <div class="column">
+            <h4 align="center"> The Queen and The Concubine </h4>
+            <img src="images/QueenConcubine.svg" style="Width:100%">
+      </div>
+      <div class="column">
+            <h4 align="center"> Queen's Exchange </h4>
+            <img src="images/QueensExchange.svg" style="Width:100%">
+      </div>
+      <div class="column">
+            <h4 align="center"> The Sparagus Garden </h4>
+            <img src="images/SparagusGarden.svg" style="width:100%">
+      </div>
+</div>
+<div class="row">
+      <div class="column">
+            <font size="2" face="Helvetica" >
+            <table align="center" style='padding:0px 0px 50px 0px' 'border-spacing: 1em 0;'>
+                   <tr>
+                         <th> Character </th>
+                         <th> Social Class </th>
+                         <th> Weighted Degree </th>
+                         <th> Word Count </th>
+                   </tr>
+                   <tr style="background-color:#9a96e5">
+                         <td> Nicolo </td>
+                         <td> Lower </td>
+                         <td> 34 </td>
+                         <td> 1563 </td>
+                   </tr>
+                   <tr style="background-color:#f97743">
+                         <td> Francisco </td>
+                         <td> Gentry </td>
+                         <td> 33 </td>
+                         <td> 1194 </td>
+                   </tr>
+                   <tr style="background-color:#f97743">
+                         <td> Guadagni </td>
+                         <td> Gentry </td>
+                         <td> 33 </td>
+                         <td> 1523 </td>
+                 </table>
+      </div>
+      <div class="column">
+            <font size="2" face="Helvetica" >
+            <table align="center" style='padding:0px 0px 50px 0px' 'border-spacing: 1em 0;'>
+                   <tr>
+                         <th> Character </th>
+                         <th> Social Class </th>
+                         <th> Weighted Degree </th>
+                         <th> Word Count </th>
+                   </tr>
+                   <tr style="background-color:#f97743">
+                         <td> Eulalia </td>
+                         <td> Gentry </td>
+                         <td> 88 </td>
+                         <td> 6142 </td>
+                   </tr>
+                  <tr style="background-color:#f97743">
+                         <td> Ludovico </td>
+                         <td> Gentry </td>
+                         <td> 85 </td>
+                         <td> 2303 </td>
+                   </tr>
+                   <tr style="background-color:#f97743">
+                         <td> Horatio </td>
+                         <td> Gentry </td>
+                         <td> 64 </td>
+                         <td> 4509 </td>
+                 </table>
+      </div>
+      <div class="column">
+          <font size="2" face="Helvetica" >
+            <table align="center" style='padding:0px 0px 50px 0px' 'border-spacing: 1em 0;'>
+                  <tr>
+                        <th> Character </th>
+                        <th> Weighted Degree </th>
+                        <th> Social Class </th>
+                        <th> Word Count </th>
+                  </tr>
+                  <tr style="background-color:#f97743">
+                        <td> Osric </td>
+                        <td> Gentry </td>
+                        <td> 43 </td>
+                        <td> 2789 </td>
+                  </tr>
+                  <tr style="background-color:#9a96e5">
+                        <td>Jeffrey</td>
+                        <td> Lower </td>
+                        <td>41</td>
+                        <td> 2477 </td>
+                  </tr>
+                  <tr style="background-color:#f97743">
+                        <td> Midlred </td>
+                        <td> Gentry </td>
+                        <td> 40 </td>
+                        <td>1370</td>
+                </table>
+      </div>
+      <div class="column">
+          <font size="2" face="Helvetica" >
+          <table align="center" style='padding:0px 0px 50px 0px' 'border-spacing: 1em 0;'>
+                <tr>
+                <th> Character </th>
+                <th> Social Class </th>
+                <th> Weighted Degree </th>
+                <th> Word Count </th>
+                </tr>
+                <tr style="background-color:#28b36a">
+                      <td> Gilbert </td>
+                      <td> Middle </td>
+                      <td> 53 </td>
+                      <td> 2745 </td>
+                </tr>
+                <tr style="background-color:#28b36a">
+                      <td> Walter </td>
+                      <td> Middle </td>
+                      <td> 53 </td>
+                      <td> 941 </td>
+                </tr>
+                <tr style="background-color:#f97743">
+                      <td> Samuel </td>
+                      <td> Gentry </td>
+                      <td> 52 </td>
+                      <td> 1231 </td>
+                </tr>
+                </table>
+      </div>
+</div>
+
+</body>
+</html>
